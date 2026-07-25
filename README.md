@@ -1,262 +1,145 @@
+Jaspreet Kaur
+
 <div align="center">
 
-<img src="./hero-animation.gif" alt="Jaspreet Kaur — Frontend Developer" width="100%"/>
+<img src="./hero-animation.gif" width="100%" alt="Hero"/>
 
 <br>
 
 <a href="https://portfolio-jaspreet-985.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382">
-  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:jaspreetkaur29783@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+Frontend Developer • Computer Programming Graduate • Lifelong Learner
 
-<img src="./animated-divider.gif" alt="" width="100%"/>
+Building responsive, accessible and modern web experiences.
 
 </div>
 
 <div align="center">
-<img src="./about.png" alt="About" width="90%"/>
+<img src="./about.png" width="82%"/>
 </div>
 
-I am a **Computer Programming graduate from Georgian College** with hands-on experience building responsive websites and web applications.
+About Me
 
-My primary focus is frontend development using **HTML, CSS, JavaScript, React, and Bootstrap**. I enjoy creating interfaces that are clear, organized, responsive, and easy to use.
+I am a Computer Programming graduate from Georgian College with a passion for building modern, responsive, and user-friendly websites.
 
-Through academic work and personal development projects, I have practiced:
+I primarily work with HTML, CSS, JavaScript, React, Bootstrap, Java, Python, MySQL, Git, GitHub, Netlify, and Vercel.
 
-- Structuring web pages with semantic HTML
-- Building responsive layouts with CSS and Bootstrap
-- Adding interaction with JavaScript
-- Creating reusable interface components with React
-- Working with programming and database fundamentals
-- Organizing repositories and documenting projects
-- Deploying completed applications online
-
-I continue to strengthen my technical skills through regular practice, project improvement, and careful review of the work I build.
+I enjoy transforming ideas into polished interfaces while continually improving my technical and problem-solving skills.
 
 <div align="center">
-<img src="./animated-divider.gif" alt="" width="100%"/>
-<img src="./technologies.png" alt="Technologies" width="90%"/>
+<img src="./technologies.png" width="82%"/>
 </div>
 
+Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
+</p>
+
+Programming & Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,mysql"/>
+</p>
+
+Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel"/>
+</p>
+
 <div align="center">
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" alt="HTML, CSS, JavaScript, React and Bootstrap"/>
-
-<br>
-
-### Programming and Data
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql" alt="Java, Python and MySQL"/>
-
-<br>
-
-### Tools and Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel" alt="Git, GitHub, Visual Studio Code, Figma, Netlify and Vercel"/>
-
+<img src="./capabilities.png" width="82%"/>
 </div>
 
-<br>
+💻 Development
 
-<table>
-<tr>
-<td width="50%" valign="top">
+📱 Responsive Design
 
-### Frontend Foundations
+Clean, reusable code
 
-- Semantic HTML
-- Responsive CSS
-- JavaScript fundamentals
-- React components
-- Bootstrap layouts
-- Mobile-friendly interfaces
-- Cross-screen testing
+Mobile-first layouts
 
-</td>
-<td width="50%" valign="top">
+🎨 UI Design
 
-### Development Foundations
+🚀 Deployment
 
-- Object-oriented programming
-- Database fundamentals
-- SQL basics
-- Git version control
-- GitHub repositories
-- Debugging
-- Application deployment
+Consistent interfaces
 
-</td>
-</tr>
-</table>
+Netlify & Vercel
 
 <div align="center">
-<img src="./animated-divider.gif" alt="" width="100%"/>
-<img src="./capabilities.png" alt="Capabilities" width="90%"/>
+<img src="./approach.png" width="82%"/>
 </div>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+Workflow
 
-### Responsive Interfaces
+Understand requirements
 
-I build layouts that adapt across desktop, tablet, and mobile screen sizes.
+Plan the structure
 
-</td>
-<td width="33%" valign="top">
+Build components
 
-### Clear Structure
+Test responsiveness
 
-I organize pages, components, styles, and files so the work remains understandable.
-
-</td>
-<td width="33%" valign="top">
-
-### Practical Interaction
-
-I use JavaScript and React to add useful behaviour without making the interface unnecessarily complicated.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Visual Consistency
-
-I pay attention to spacing, typography, alignment, and reusable design choices.
-
-</td>
-<td width="33%" valign="top">
-
-### Repository Quality
-
-I improve README files, project organization, links, deployment details, and documentation.
-
-</td>
-<td width="33%" valign="top">
-
-### Continuous Learning
-
-I use each project to strengthen weak areas and become more confident with development tools.
-
-</td>
-</tr>
-</table>
+Refine and improve
 
 <div align="center">
-<img src="./animated-divider.gif" alt="" width="100%"/>
-<img src="./approach.png" alt="Development Approach" width="90%"/>
+<img src="./principles.png" width="82%"/>
 </div>
 
-When I begin building a page or feature, I first identify what it needs to accomplish and what information the user should understand.
+Simplicity
 
-I then divide the work into manageable sections, create the structure, apply the visual design, add interaction, and test how the experience behaves across different screen sizes.
+Readability
 
-<table>
-<tr>
-<td width="20%" align="center"><b>01</b><br>Understand</td>
-<td width="20%" align="center"><b>02</b><br>Plan</td>
-<td width="20%" align="center"><b>03</b><br>Build</td>
-<td width="20%" align="center"><b>04</b><br>Test</td>
-<td width="20%" align="center"><b>05</b><br>Improve</td>
-</tr>
-</table>
+Maintainability
 
-<br>
+Accessibility
 
-My development process usually includes:
+Responsiveness
 
-- Understanding the purpose of the feature
-- Planning the page structure and layout
-- Building one section at a time
-- Adding styling and responsive behaviour
-- Adding JavaScript or React interaction where needed
-- Testing links, layouts, and different screen sizes
-- Fixing visual and functional inconsistencies
-- Improving documentation before publishing
+Continuous Learning
 
 <div align="center">
-<img src="./animated-divider.gif" alt="" width="100%"/>
-<img src="./principles.png" alt="Development Principles" width="90%"/>
-</div>
+<img src="./education.png" width="82%"/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Georgian College
 
-### Simplicity
+Computer Programming Diploma
 
-A clear solution is often stronger than an unnecessarily complicated one.
-
-### Readability
-
-Code should be organized so that it is easier to understand, review, and update.
-
-### Responsiveness
-
-A website should adapt properly instead of looking correct on only one screen size.
-
-</td>
-<td width="50%" valign="top">
-
-### Usability
-
-The interface should help the user understand what to do without unnecessary confusion.
-
-### Consistency
-
-Repeated visual and structural choices make an application feel more complete.
-
-### Improvement
-
-A finished first version can still be reviewed, refined, and strengthened.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="./animated-divider.gif" alt="" width="100%"/>
-<img src="./education.png" alt="Education" width="90%"/>
-
-### Computer Programming Diploma
-
-**Georgian College**
-
-<br>
-
-My studies introduced me to web development, programming, databases, software development practices, testing, and problem-solving.
+Studied web development, software engineering fundamentals, databases, Java, Python, SQL, JavaScript, React, testing, and software development practices.
 
 </div>
 
 <div align="center">
-<img src="./animated-divider.gif" alt="" width="100%"/>
-<img src="./connect.png" alt="Connect" width="90%"/>
+<img src="./connect.png" width="82%"/>
 
 <a href="https://portfolio-jaspreet-985.netlify.app/">
-  <img src="https://img.shields.io/badge/Explore_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-<a href="mailto:jaspreetkaur29783@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+<img src="https://img.shields.io/badge/Explore_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="./footer-animation.gif" alt="Build, learn, create and improve" width="100%"/>
+<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="mailto:jaspreetkaur29783@gmail.com">
+<img src="https://img.shields.io/badge/Email-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="./footer-animation.gif" width="100%" alt="Footer"/>
 
 </div>
