@@ -5,153 +5,150 @@
 <br>
 
 <a href="https://portfolio-jaspreet-985.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-F472B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:jaspreetkaur29783@gmail.com">
-  <img src="https://img.shields.io/badge/Email-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open_to_Work-FDA4AF?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
 
 <br><br>
 
 Frontend Developer • Computer Programming Graduate
 
-Creating responsive, polished, and user-focused digital experiences.
+Building responsive, polished, and user-focused digital experiences.
+
+<br>
+
+<img src="./animated-divider.gif" alt="Animated divider" width="100%"/>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="./about.png" alt="About" width="90%"/>
+<img src="./about.png" alt="About Me" width="90%"/>
 </div>
 
-I am a Computer Programming graduate from Georgian College with a strong interest in frontend development and modern web experiences.
+<table>
+<tr>
+<td width="34%" valign="top">
 
-I enjoy turning ideas into responsive, organized, and visually engaging interfaces using HTML, CSS, JavaScript, React, and Bootstrap. My goal is to build websites that feel clear, consistent, and easy to use across different screen sizes.
+Quick Profile
 
-Through academic work and personal development projects, I have strengthened my skills in:
+Computer Programming Graduate Frontend Development JavaScript & React Responsive Web Design Modern UI Development Based in Canada Open to IT Opportunities
 
-Structuring pages with semantic HTML
+</td>
+<td width="66%" valign="top">
 
-Building responsive layouts with CSS and Bootstrap
+I am a Computer Programming graduate from Georgian College with a strong interest in frontend development, responsive design, and modern user interfaces.
 
-Adding interaction with JavaScript
+I enjoy transforming ideas into clear, polished, and functional web experiences using HTML, CSS, JavaScript, React, and Bootstrap.
 
-Creating reusable React components
+My work focuses on clean structure, thoughtful spacing, responsive layouts, and practical interactions that make websites easy to understand and enjoyable to use.
 
-Working with Java, Python, MySQL, and database fundamentals
+I continue to strengthen my technical skills through hands-on projects, code refinement, deployment, and continuous learning.
 
-Using Git and GitHub for version control and project organization
+</td>
+</tr>
+</table>
 
-Testing interfaces across desktop, tablet, and mobile screens
-
-Deploying completed applications with Netlify and Vercel
-
-I continue to improve by reviewing my work carefully, refining details, and learning from every project I build.
+<div align="center">
+<img src="./animated-divider.gif" alt="Animated divider" width="100%"/>
+</div>
 
 <br>
 
 <div align="center">
-<img src="./technologies.png" alt="Technologies" width="90%"/>
+<img src="./technologies.png" alt="Technology Stack" width="90%"/>
 </div>
 
 <div align="center">
 
-Frontend Development
+Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" alt="HTML, CSS, JavaScript, React and Bootstrap"/>
 
-<br>
+<br><br>
 
-Programming & Data
+Programming & Database
 
 <img src="https://skillicons.dev/icons?i=java,python,mysql" alt="Java, Python and MySQL"/>
 
-<br>
+<br><br>
 
-Tools & Platforms
+Tools & Deployment
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel" alt="Git, GitHub, Visual Studio Code, Figma, Netlify and Vercel"/>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-F9A8D4?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-F472B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-FBBF24?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-C084FC?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Bootstrap-E879F9?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/MySQL-FDA4AF?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+
 </div>
 
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-Frontend Foundations
-
-Semantic HTML
-
-Responsive CSS
-
-JavaScript fundamentals
-
-React components
-
-Bootstrap layouts
-
-Mobile-first design
-
-Cross-screen testing
-
-</td>
-<td width="50%" valign="top">
-
-Development Foundations
-
-Object-oriented programming
-
-Database fundamentals
-
-SQL basics
-
-Git version control
-
-GitHub repositories
-
-Debugging
-
-Application deployment
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="./animated-divider.gif" alt="Animated divider" width="100%"/>
+</div>
 
 <br>
 
 <div align="center">
-<img src="./capabilities.png" alt="Capabilities" width="90%"/>
+
+GitHub Overview
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JaspreetKaur985&show_icons=true&hide_border=true&title_color=F472B6&icon_color=C084FC&text_color=9D174D&bg_color=FFF7FB" alt="Jaspreet's GitHub stats"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetKaur985&layout=compact&hide_border=true&title_color=F472B6&text_color=9D174D&bg_color=FFF7FB" alt="Jaspreet's top languages"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=JaspreetKaur985&hide_border=true&background=FFF7FB&ring=F472B6&fire=C084FC&currStreakLabel=DB2777&sideLabels=9D174D&dates=BE185D" alt="GitHub streak"/>
+
+</div>
+
+<div align="center">
+<img src="./animated-divider.gif" alt="Animated divider" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="./capabilities.png" alt="What I Build" width="90%"/>
 </div>
 
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
 
-Responsive Interfaces
+ Responsive UI
 
-Layouts designed to adapt smoothly across desktop, tablet, and mobile devices.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-Clear Structure
-
-Organized pages, components, styles, and files that remain easy to understand and maintain.
+Modern layouts that adapt smoothly across desktop, tablet, and mobile screens.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-Practical Interaction
+ Clean Structure
 
-Useful JavaScript and React features that improve the experience without adding unnecessary complexity.
+Organized files, reusable sections, and readable code that is easier to maintain.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+ Practical Interaction
+
+JavaScript and React features that improve usability without adding unnecessary complexity.
 
 </td>
 </tr>
@@ -161,27 +158,31 @@ Useful JavaScript and React features that improve the experience without adding 
 <tr>
 <td width="33%" valign="top" align="center">
 
-Visual Consistency
+ Visual Consistency
 
-Careful attention to spacing, typography, alignment, color, and reusable design choices.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-Repository Quality
-
-Professional README files, working links, clear documentation, and organized project structure.
+Careful attention to typography, alignment, spacing, and color balance.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-Continuous Growth
+ Repository Quality
 
-Every project is an opportunity to strengthen weak areas and become a more confident developer.
+Clear README files, live links, organized folders, and polished project presentation.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+ Continuous Growth
+
+Every project is used to strengthen technical skills, design judgment, and confidence.
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="./animated-divider.gif" alt="Animated divider" width="100%"/>
+</div>
 
 <br>
 
@@ -189,55 +190,55 @@ Every project is an opportunity to strengthen weak areas and become a more confi
 <img src="./approach.png" alt="Development Approach" width="90%"/>
 </div>
 
-I begin by understanding what the page or feature needs to accomplish and what the user should be able to do.
+<div align="center">
 
-From there, I plan the structure, build the interface, add interaction, test the experience across different screen sizes, and refine the final result.
+My Workflow
+
+</div>
 
 <table>
 <tr>
-<td width="20%" align="center">
+<td width="16%" align="center">
 
-01
 
 Understand
 
-Identify the purpose and user need.
+Clarify the goal and user need.
 
 </td>
-<td width="20%" align="center">
-
-02
+<td width="16%" align="center">
 
 Plan
 
 Organize the structure and layout.
 
 </td>
-<td width="20%" align="center">
+<td width="17%" align="center">
 
-03
+Design
+
+Define spacing, hierarchy, and visual direction.
+
+</td>
+<td width="17%" align="center">
 
 Build
 
-Develop the interface and features.
+Develop the interface and functionality.
 
 </td>
-<td width="20%" align="center">
-
-04
+<td width="17%" align="center">
 
 Test
 
 Review responsiveness, links, and behaviour.
 
 </td>
-<td width="20%" align="center">
+<td width="17%" align="center">
 
-05
+Refine
 
-Improve
-
-Refine the design, code, and documentation.
+Improve the code, design, and documentation.
 
 </td>
 </tr>
@@ -245,23 +246,13 @@ Refine the design, code, and documentation.
 
 <br>
 
-My development process usually includes:
+My approach is simple: understand the purpose, plan the experience, build carefully, test thoroughly, and refine the final result.
 
-Understanding the purpose of the feature
+I focus on creating interfaces that are not only visually appealing but also clear, responsive, practical, and easy to maintain.
 
-Planning the page structure and visual hierarchy
-
-Building one section at a time
-
-Adding responsive styling
-
-Adding JavaScript or React interaction where needed
-
-Testing layouts, links, and behaviour
-
-Fixing visual and functional inconsistencies
-
-Improving documentation before publishing
+<div align="center">
+<img src="./animated-divider.gif" alt="Animated divider" width="100%"/>
+</div>
 
 <br>
 
@@ -275,34 +266,38 @@ Improving documentation before publishing
 
 Simplicity
 
-Clear solutions are often stronger than unnecessarily complicated ones.
+Clear solutions are stronger than unnecessary complexity.
 
 Readability
 
-Code should remain organized, understandable, and easier to update.
+Code should remain organized, understandable, and easy to update.
 
 Responsiveness
 
-A website should work properly across different devices and screen sizes.
+Every interface should work properly across different devices.
 
 </td>
 <td width="50%" valign="top">
 
 Usability
 
-The interface should guide the user clearly and reduce unnecessary confusion.
+The design should guide users clearly and reduce confusion.
 
 Consistency
 
-Repeated visual and structural choices create a more polished experience.
+Repeated visual and structural choices create a polished experience.
 
 Improvement
 
-Every completed version can still be reviewed, refined, and strengthened.
+Every completed version can still be reviewed and strengthened.
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="./animated-divider.gif" alt="Animated divider" width="100%"/>
+</div>
 
 <br>
 
@@ -315,15 +310,20 @@ Georgian College
 
 <br>
 
-My studies introduced me to web development, programming, databases, testing, software development practices, and technical problem-solving.
+My studies introduced me to programming, web development, databases, testing, software development practices, and technical problem-solving.
 
 <br>
 
-<img src="https://img.shields.io/badge/Web_Development-2563EB?style=flat-square" alt="Web Development"/>
-<img src="https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-8B5CF6?style=flat-square" alt="React"/>
-<img src="https://img.shields.io/badge/Databases-DB2777?style=flat-square" alt="Databases"/>
+<img src="https://img.shields.io/badge/Web_Development-F472B6?style=flat-square" alt="Web Development"/>
+<img src="https://img.shields.io/badge/JavaScript-F9A8D4?style=flat-square" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-C084FC?style=flat-square" alt="React"/>
+<img src="https://img.shields.io/badge/Databases-FDA4AF?style=flat-square" alt="Databases"/>
+<img src="https://img.shields.io/badge/Software_Development-E879F9?style=flat-square" alt="Software Development"/>
 
+</div>
+
+<div align="center">
+<img src="./animated-divider.gif" alt="Animated divider" width="100%"/>
 </div>
 
 <br>
@@ -337,24 +337,23 @@ Current Focus
 <table>
 <tr>
 <td width="33%" align="center">
+ React Development
 
-🌸 Improving React Skills
-
-Building cleaner and more reusable interface components.
-
-</td>
-<td width="33%" align="center">
-
-💜 Strengthening JavaScript
-
-Improving logic, interaction, and problem-solving.
+Building cleaner, reusable, and better-organized interface components.
 
 </td>
 <td width="33%" align="center">
 
-💙 Creating Better Interfaces
+ JavaScript Skills
 
-Refining responsive design, spacing, and usability.
+Improving logic, interaction, debugging, and problem-solving.
+
+</td>
+<td width="33%" align="center">
+
+ UI Quality
+
+Refining responsiveness, accessibility, spacing, and user experience.
 
 </td>
 </tr>
@@ -363,24 +362,49 @@ Refining responsive design, spacing, and usability.
 <br>
 
 <div align="center">
-<img src="./connect.png" alt="Connect" width="90%"/>
+
+<img src="https://img.shields.io/badge/Learning-React-F472B6?style=for-the-badge&logo=react&logoColor=white" alt="Learning React"/>
+<img src="https://img.shields.io/badge/Improving-JavaScript-F9A8D4?style=for-the-badge&logo=javascript&logoColor=white" alt="Improving JavaScript"/>
+<img src="https://img.shields.io/badge/Exploring-TypeScript-C084FC?style=for-the-badge&logo=typescript&logoColor=white" alt="Exploring TypeScript"/>
+<img src="https://img.shields.io/badge/Practising-Accessibility-FDA4AF?style=for-the-badge&logo=accessibility&logoColor=white" alt="Practising Accessibility"/>
+
+</div>
+
+<div align="center">
+<img src="./animated-divider.gif" alt="Animated divider" width="100%"/>
+</div>
 
 <br>
 
+<div align="center">
+<img src="./connect.png" alt="Let's Connect" width="90%"/>
+
+<br><br>
+
+I am currently open to opportunities where I can contribute, continue learning, and grow as a frontend or web developer.
+
+<br><br>
+
 <a href="https://portfolio-jaspreet-985.netlify.app/">
-  <img src="https://img.shields.io/badge/Explore_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio"/>
+  <img src="https://img.shields.io/badge/Explore_My_Portfolio-F472B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/JaspreetKaur985">
+  <img src="https://img.shields.io/badge/View_My_GitHub-F9A8D4?style=for-the-badge&logo=github&logoColor=white" alt="View my GitHub"/>
 </a>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <br><br>
 
 <a href="mailto:jaspreetkaur29783@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+  <img src="https://img.shields.io/badge/Send_an_Email-FDA4AF?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
 </a>
 
 <br><br>
