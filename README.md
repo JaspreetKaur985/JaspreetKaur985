@@ -1,793 +1,232 @@
-
 <div align="center">
 
+# Jaspreet Kaur
+
 <img
-width="100%"
-alt="Jaspreet Kaur — Frontend Developer"
-src="https://capsule-render.vercel.app/api?type=venom&height=360&color=0:050816,30:111B3C,62:5B21B6,100:DB2777&text=JASPREET%20KAUR&fontSize=62&fontColor=FFFFFF&fontAlignY=40&desc=FRONTEND%20DEVELOPER%20%7C%20REACT%20DEVELOPER%20%7C%20SOFTWARE%20DEVELOPER&descSize=20&descAlignY=64&animation=fadeIn"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=6D28D9&center=true&vCenter=true&width=760&lines=Frontend+Developer;Building+responsive+and+user-focused+web+experiences;Learning%2C+building%2C+and+improving+through+code"
+alt="Animated introduction"
 />
 
-<br/>
+<br>
 
 <a href="https://portfolio-jaspreet-985.netlify.app/">
-<img
-src="https://img.shields.io/badge/VIEW%20PORTFOLIO-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white"
-/>
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-
-&nbsp;
-
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382">
-<img
-src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"
-/>
+  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-&nbsp;
-
 <a href="mailto:jaspreetkaur29783@gmail.com">
-<img
-src="https://img.shields.io/badge/EMAIL-DB2777?style=for-the-badge&logo=gmail&logoColor=white"
-/>
+  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
-
-<strong>
-
-Computer Programming Graduate • Four-Time Dean's Honour List Recipient
-
-</strong>
-
-<br/>
-
-<sub>
-
-Open to Frontend, React, Software Development, Database Development and Web Development Opportunities across Manitoba and Canada
-
-</sub>
-
 </div>
 
-<br/>
+<br>
 
----
+## Who I Am
+
+I am a Computer Programming graduate from Georgian College with hands-on experience building responsive websites and web applications.
+
+My work is focused on frontend development using HTML, CSS, JavaScript, React, and Bootstrap. I enjoy improving interfaces, organizing code clearly, and turning ideas into practical digital experiences.
+
+I am continuing to strengthen my development skills through personal projects, technical practice, and consistent learning.
+
+<br>
+
+## Technologies
 
 <div align="center">
-
-<img
-width="100%"
-alt="Professional Profile"
-src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111B3C,50:4C1D95,100:7C3AED&text=PROFESSIONAL%20PROFILE&fontSize=23&fontColor=FFFFFF"
-/>
-
-</div>
-
-<br/>
-
-Computer Programming graduate from **Georgian College** with a strong academic foundation in software development, frontend engineering, and modern web technologies.
-
-My primary expertise is in **Frontend Development**, where I design and develop responsive, accessible, and user-focused web applications using **React, JavaScript, HTML5, CSS3, Bootstrap, Firebase, REST APIs, Git, GitHub, and modern development workflows**.
-
-My education has also provided hands-on experience with **Java, Python, SQL, MySQL, Object-Oriented Programming, Database Design, Data Structures, Algorithms, Software Engineering, Systems Analysis, and Software Testing**, enabling me to understand software development beyond the frontend.
-
-I am passionate about developing high-quality software, writing clean and maintainable code, solving real-world problems, and continuously improving my technical expertise. I am currently seeking opportunities where I can contribute to meaningful products while growing as a Frontend, React, or Software Developer.
-
-<br/>
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-<img
-width="100%"
-alt="Academic Excellence"
-src="https://capsule-render.vercel.app/api?type=rounded&height=155&color=0:172554,100:312E81&text=ACADEMIC%20EXCELLENCE&fontSize=17&fontColor=C4B5FD&desc=Four-Time%20Dean's%20Honour%20List&descSize=15&descAlignY=67"
-/>
-
-</td>
-
-<td align="center" width="33%">
-
-<img
-width="100%"
-alt="Technical Expertise"
-src="https://capsule-render.vercel.app/api?type=rounded&height=155&color=0:312E81,100:6D28D9&text=TECHNICAL%20EXPERTISE&fontSize=17&fontColor=FFFFFF&desc=Modern%20Frontend%20Development&descSize=15&descAlignY=67"
-/>
-
-</td>
-
-<td align="center" width="33%">
-
-<img
-width="100%"
-alt="Professional Mindset"
-src="https://capsule-render.vercel.app/api?type=rounded&height=155&color=0:6D28D9,100:BE185D&text=PROFESSIONAL%20MINDSET&fontSize=17&fontColor=FFFFFF&desc=Continuous%20Learning%20%26%20Growth&descSize=14&descAlignY=67"
-/>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img
-width="100%"
-alt="Why Consider Me"
-src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:7C3AED,50:A21CAF,100:DB2777&text=WHY%20CONSIDER%20ME&fontSize=23&fontColor=FFFFFF"
-/>
-
-</div>
-
-<br/>
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Professional Foundation
-
-- **Four-Time Dean's Honour List Recipient**
-- Computer Programming Graduate
-- Strong Computer Science fundamentals
-- Practical software development projects
-- Frontend development specialization
-- Responsive web application development
-- Commitment to continuous learning
-
-</td>
-
-<td width="50%" valign="top">
-
-### Professional Strengths
-
-- Strong analytical and problem-solving skills
-- Clean and maintainable coding practices
-- Adaptability to modern technologies
-- Attention to quality and detail
-- Effective communication and collaboration
-- Professional work ethic
-- Continuous improvement mindset
-
-</td>
-
-</tr>
-
-</table>
-
-<br/>
-
-> **What I bring:** a strong academic foundation, practical software development experience, modern frontend expertise, solid programming fundamentals, and the determination to continuously learn while contributing to high-quality software products.
-
-<br/>
----
-
-<div align="center">
-
-<img
-width="100%"
-alt="What I Can Build"
-src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:0F3B66,50:1D4ED8,100:6D28D9&text=WHAT%20I%20CAN%20BUILD&fontSize=23&fontColor=FFFFFF"
-/>
-
-</div>
-
-<br/>
-
-<table>
-
-<tr>
-
-<td width="33%" valign="top" align="center">
-
-### Modern Web Applications
-
-Responsive websites
-
-Business websites
-
-Portfolio websites
-
-Landing pages
-
-Interactive user interfaces
-
-Mobile-first layouts
-
-Cross-browser compatibility
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### React Development
-
-Reusable components
-
-State management
-
-REST API integration
-
-Authentication systems
-
-Dynamic content
-
-Interactive dashboards
-
-Modern UI architecture
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### Software Development
-
-Clean code architecture
-
-Responsive user experiences
-
-Database connectivity
-
-Performance optimization
-
-Problem solving
-
-Software testing
-
-Continuous improvement
-
-</td>
-
-</tr>
-
-</table>
-
-<br/>
-
-> I enjoy developing applications that combine clean user interfaces, responsive design, maintainable code, and modern development practices to create reliable digital experiences.
-
-<br/>
-
----
-
-<div align="center">
-
-<img
-width="100%"
-alt="Technical Capabilities"
-src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111827,40:312E81,75:6D28D9,100:9333EA&text=TECHNICAL%20CAPABILITIES&fontSize=23&fontColor=FFFFFF"
-/>
-
-</div>
-
-<br/>
-
-## Primary Development Stack
-
-<div align="center">
-
-<img
-src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,vite,firebase&theme=dark"
-alt="Frontend Development Stack"
-/>
-
-</div>
-
-<br/>
-
-<table>
-
-<tr>
-
-<td width="33%" valign="top">
 
 ### Frontend
 
-- React
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Bootstrap
-- Responsive Design
-- REST APIs
+<img src="https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-4F46E5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Bootstrap-5B21B6?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 
-</td>
+### Programming and Data
 
-<td width="33%" valign="top">
+<img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-4F46E5?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/MySQL-6D28D9?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
-### Programming
+### Tools and Platforms
 
-- Java
-- Python
-- Object-Oriented Programming
-- Data Structures
-- Algorithms
-- Software Engineering
-- Software Testing
-
-</td>
-
-<td width="33%" valign="top">
-
-### Database
-
-- SQL
-- MySQL
-- Database Design
-- Relational Databases
-- ER Modeling
-- Query Optimization
-- Systems Analysis
-
-</td>
-
-</tr>
-
-</table>
-
-<br/>
-
-## Development Tools
-
-<div align="center">
-
-<img
-src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel,firebase&theme=dark"
-alt="Development Tools"
-/>
+<img src="https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-6D28D9?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+<img src="https://img.shields.io/badge/Figma-7C3AED?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Netlify-5B21B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+<img src="https://img.shields.io/badge/Vercel-4338CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 
 </div>
 
-<br/>
+<br>
 
-<div align="center">
+## How I Approach Development
 
-| Version Control | Development | Deployment |
-|:----------------|:-----------|:-----------|
-| Git | Visual Studio Code | Netlify |
-| GitHub | Firebase | Vercel |
-| GitHub Projects | Figma | Modern Deployment Workflows |
+I aim to build interfaces that are clear, responsive, and easy to use.
 
-</div>
+My approach is to understand the purpose of a feature, create a clean structure, test the experience across different screen sizes, and improve the result through iteration.
 
-<br/>
+I value readable code, thoughtful design, practical problem-solving, and continuous improvement.
 
----
+<br>
 
-<div align="center">
-
-<img
-width="100%"
-alt="Core Expertise"
-src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:172554,40:3730A3,70:6D28D9,100:9333EA&text=CORE%20EXPERTISE&fontSize=23&fontColor=FFFFFF"
-/>
-
-</div>
-
-<br/>
+## Education
 
 <table>
-
 <tr>
+<td>
 
-<td width="25%" valign="top">
-
-### Frontend
-
-React
-
-JavaScript
-
-HTML5
-
-CSS3
-
-Bootstrap
-
-Responsive Design
-
-REST APIs
+**Computer Programming Diploma**
+Georgian College
 
 </td>
-
-<td width="25%" valign="top">
-
-### Programming
-
-Java
-
-Python
-
-Object-Oriented Programming
-
-Data Structures
-
-Algorithms
-
-Software Engineering
-
-</td>
-
-<td width="25%" valign="top">
-
-### Database
-
-SQL
-
-MySQL
-
-Database Design
-
-Relational Databases
-
-ER Modeling
-
-Query Optimization
-
-</td>
-
-<td width="25%" valign="top">
-
-### Professional
-
-Problem Solving
-
-Analytical Thinking
-
-Clean Code
-
-Version Control
-
-Team Collaboration
-
-Continuous Learning
-
-</td>
-
 </tr>
-
 </table>
 
-<br/>
+<br>
 
-> My strongest practical experience is in **Frontend Development**, while my academic background provides a solid understanding of software engineering principles, programming, databases, testing, and modern software development practices.
->
----
+## Beyond the Code
 
-<div align="center">
+I see every project as an opportunity to improve both technical ability and attention to detail.
 
-<img
-width="100%"
-alt="Education and Recognition"
-src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:172554,50:4338CA,100:7C3AED&text=EDUCATION%20%26%20RECOGNITION&fontSize=23&fontColor=FFFFFF"
-/>
+My goal is not only to make an application work, but also to make it understandable, usable, and visually considered.
 
-</div>
+<br>
 
-<br/>
-
-<table>
-
-<tr>
-
-<td width="35%" align="center" valign="middle">
-
-<h2>Georgian College</h2>
-
-Ontario, Canada
-
-<br/>
-
-### Computer Programming
-
-Ontario College Diploma
-
-<br/>
-
-**Four-Time Dean's Honour List Recipient**
-
-</td>
-
-<td width="65%" valign="top">
-
-### Academic Foundation
-
-My education provided a strong foundation in software development, frontend engineering, databases, programming principles, software design, testing, and modern development practices.
-
-Throughout the program I developed practical applications while strengthening analytical thinking, problem-solving, debugging, collaboration, and software development methodologies.
-
-</td>
-
-</tr>
-
-</table>
-
-<br/>
-
-## Relevant Coursework
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-- Java Programming
-- Python Programming
-- Object-Oriented Programming
-- Data Structures
-- Algorithms
-- Software Engineering
-- Software Testing
-- Systems Analysis
-
-</td>
-
-<td width="50%" valign="top">
-
-- HTML5
-- CSS3
-- JavaScript
-- React Development
-- SQL
-- Database Design
-- Responsive Web Design
-- Git & GitHub
-
-</td>
-
-</tr>
-
-</table>
-
-<br/>
-
----
+## Connect
 
 <div align="center">
-
-<img
-width="100%"
-alt="Professional Strengths"
-src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:312E81,50:6D28D9,100:BE185D&text=PROFESSIONAL%20STRENGTHS&fontSize=23&fontColor=FFFFFF"
-/>
-
-</div>
-
-<br/>
-
-<table>
-
-<tr>
-
-<td width="25%" align="center" valign="top">
-
-### Analytical Thinking
-
-Break complex problems into structured, practical, and efficient solutions.
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### Continuous Learning
-
-Quickly adapts to modern technologies, development practices, and evolving software tools.
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### Ownership
-
-Values responsibility, accountability, communication, and delivering quality work.
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### Quality Focus
-
-Committed to writing maintainable, reliable, and user-focused software solutions.
-
-</td>
-
-</tr>
-
-</table>
-
-<br/>
-
----
-
-<div align="center">
-
-<img
-width="100%"
-alt="Career Direction"
-src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:0F3B66,40:3730A3,75:7C3AED,100:DB2777&text=CAREER%20DIRECTION&fontSize=23&fontColor=FFFFFF"
-/>
-
-</div>
-
-<br/>
-
-I am actively seeking opportunities where I can contribute to meaningful software projects, collaborate with experienced developers, and continue strengthening my technical expertise while delivering high-quality solutions.
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/FRONTEND%20DEVELOPMENT-172554?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REACT%20DEVELOPMENT-312E81?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-5B21B6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DATABASE%20DEVELOPMENT-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-A21CAF?style=for-the-badge"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-Open to **Frontend Developer**, **React Developer**, **Software Developer**, **Web Developer**, **Database Developer**, and **Junior Software Developer** opportunities across **Canada**.
-
-</div>
-
-<br/>
-
----
----
-
-<div align="center">
-
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:0F3B66,50:4338CA,100:7C3AED&text=CORE%20COMPETENCIES&fontSize=23&fontColor=FFFFFF"
-/>
-
-</div>
-
-<br/>
-
-<table>
-
-<tr>
-
-<td width="25%">
-
-### Frontend
-
-React
-
-JavaScript
-
-HTML5
-
-CSS3
-
-Bootstrap
-
-REST APIs
-
-</td>
-
-<td width="25%">
-
-### Programming
-
-Java
-
-Python
-
-Object-Oriented Programming
-
-Data Structures
-
-Algorithms
-
-</td>
-
-<td width="25%">
-
-### Database
-
-SQL
-
-MySQL
-
-Database Design
-
-Normalization
-
-ER Modeling
-
-</td>
-
-<td width="25%">
-
-### Professional
-
-Problem Solving
-
-Clean Code
-
-Version Control
-
-Testing
-
-Team Collaboration
-
-</td>
-
-</tr>
-
-</table>
-
-<div align="center">
-
-<img
-width="100%"
-alt="Let's Connect"
-src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:DB2777,45:7C3AED,100:312E81&text=LET%27S%20CONNECT&fontSize=23&fontColor=FFFFFF"
-/>
-
-<br/><br/>
 
 <a href="https://portfolio-jaspreet-985.netlify.app/">
-<img
-src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white"
-/>
+  <img src="https://img.shields.io/badge/Explore_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio"/>
 </a>
-
-&nbsp;
-
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382">
-<img
-src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"
-/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-
-&nbsp;
-
 <a href="mailto:jaspreetkaur29783@gmail.com">
-<img
-src="https://img.shields.io/badge/EMAIL-DB2777?style=for-the-badge&logo=gmail&logoColor=white"
-/>
+  <img src="https://img.shields.io/badge/Send_an_Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<strong>
+Thank you for visiting my profile.
 
-Available for Frontend Development, React Development, Software Development, Database Development, and Web Development opportunities.
+</div>
 
-</strong>
+<br>
 
-<br/><br/>
+<div align="center">
 
 <img
-width="100%"
-alt="Footer"
-src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:DB2777,35:7C3AED,70:312E81,100:050816"
+src="https://raw.githubusercontent.com/JaspreetKaur985/JaspreetKaur985/output/github-contribution-grid-snake.svg"
+alt="Contribution snake animation"
 />
+
+</div>
+
+<div align="center">
+
+<img src="./assets/hero.png" alt="Jaspreet Kaur — Frontend Developer" width="850"/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=780&lines=Building+responsive+web+experiences;Creating+with+HTML%2C+CSS%2C+JavaScript%2C+and+React;Learning%2C+building%2C+and+improving+through+code"
+alt="Animated professional introduction"
+/>
+
+<br>
+
+<a href="https://portfolio-jaspreet-985.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382">
+  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:jaspreetkaur29783@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+<img src="./assets/animated-divider.gif" alt="" width="820"/>
+
+</div>
+
+<div align="center">
+<img src="./assets/about.png" alt="About" width="780"/>
+</div>
+
+I am a Computer Programming graduate from Georgian College with hands-on experience building responsive websites and web applications.
+
+My focus is frontend development using HTML, CSS, JavaScript, React, and Bootstrap. I enjoy creating clear interfaces, organizing code carefully, and turning ideas into practical digital experiences.
+
+I continue to strengthen my development skills through personal projects, technical practice, and consistent learning.
+
+<div align="center">
+<img src="./assets/animated-divider.gif" alt="" width="820"/>
+<img src="./assets/technologies.png" alt="Technologies" width="780"/>
+
+Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" alt="HTML, CSS, JavaScript, React and Bootstrap"/>
+
+Programming and Data
+
+<img src="https://skillicons.dev/icons?i=java,python,mysql" alt="Java, Python and MySQL"/>
+
+Tools and Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel" alt="Git, GitHub, Visual Studio Code, Figma, Netlify and Vercel"/>
+
+<img src="./assets/animated-divider.gif" alt="" width="820"/>
+<img src="./assets/approach.png" alt="Development Approach" width="780"/>
+</div>
+
+I aim to build interfaces that are responsive, understandable, and easy to use.
+
+My approach is to understand the purpose of a feature, create a clear structure, test the experience across different screen sizes, and improve the result through iteration.
+
+I value readable code, thoughtful design, practical problem-solving, and continuous improvement.
+
+<div align="center">
+<img src="./assets/animated-divider.gif" alt="" width="820"/>
+<img src="./assets/education.png" alt="Education" width="780"/>
+
+Computer Programming Diploma
+
+Georgian College
+
+<img src="./assets/animated-divider.gif" alt="" width="820"/>
+<img src="./assets/connect.png" alt="Connect" width="780"/>
+
+<a href="https://portfolio-jaspreet-985.netlify.app/">
+  <img src="https://img.shields.io/badge/Explore_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:jaspreetkaur29783@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+</a>
+
+<br><br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JaspreetKaur985/JaspreetKaur985/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JaspreetKaur985/JaspreetKaur985/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Contribution snake animation"
+    src="https://raw.githubusercontent.com/JaspreetKaur985/JaspreetKaur985/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
