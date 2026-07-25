@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-animation.gif" alt="Jaspreet Kaur — Frontend Developer" width="100%"/>
+<img src="./hero-animation.gif" alt="Jaspreet Kaur — Frontend Developer" width="100%"/>
 
 <br>
 
@@ -16,12 +16,12 @@
 
 <br><br>
 
-<img src="./assets/animated-divider.gif" alt="" width="100%"/>
+<img src="./animated-divider.gif" alt="" width="100%"/>
 
 </div>
 
 <div align="center">
-<img src="./assets/about.png" alt="About" width="90%"/>
+<img src="./about.png" alt="About" width="90%"/>
 </div>
 
 I am a **Computer Programming graduate from Georgian College** with hands-on experience building responsive websites and web applications.
@@ -41,8 +41,8 @@ Through academic work and personal development projects, I have practiced:
 I continue to strengthen my technical skills through regular practice, project improvement, and careful review of the work I build.
 
 <div align="center">
-<img src="./assets/animated-divider.gif" alt="" width="100%"/>
-<img src="./assets/technologies.png" alt="Technologies" width="90%"/>
+<img src="./animated-divider.gif" alt="" width="100%"/>
+<img src="./technologies.png" alt="Technologies" width="90%"/>
 </div>
 
 <div align="center">
@@ -99,8 +99,8 @@ I continue to strengthen my technical skills through regular practice, project i
 </table>
 
 <div align="center">
-<img src="./assets/animated-divider.gif" alt="" width="100%"/>
-<img src="./assets/capabilities.png" alt="Capabilities" width="90%"/>
+<img src="./animated-divider.gif" alt="" width="100%"/>
+<img src="./capabilities.png" alt="Capabilities" width="90%"/>
 </div>
 
 <table>
@@ -156,8 +156,8 @@ I use each project to strengthen weak areas and become more confident with devel
 </table>
 
 <div align="center">
-<img src="./assets/animated-divider.gif" alt="" width="100%"/>
-<img src="./assets/approach.png" alt="Development Approach" width="90%"/>
+<img src="./animated-divider.gif" alt="" width="100%"/>
+<img src="./approach.png" alt="Development Approach" width="90%"/>
 </div>
 
 When I begin building a page or feature, I first identify what it needs to accomplish and what information the user should understand.
@@ -188,8 +188,8 @@ My development process usually includes:
 - Improving documentation before publishing
 
 <div align="center">
-<img src="./assets/animated-divider.gif" alt="" width="100%"/>
-<img src="./assets/principles.png" alt="Development Principles" width="90%"/>
+<img src="./animated-divider.gif" alt="" width="100%"/>
+<img src="./principles.png" alt="Development Principles" width="90%"/>
 </div>
 
 <table>
@@ -228,8 +228,8 @@ A finished first version can still be reviewed, refined, and strengthened.
 </table>
 
 <div align="center">
-<img src="./assets/animated-divider.gif" alt="" width="100%"/>
-<img src="./assets/education.png" alt="Education" width="90%"/>
+<img src="./animated-divider.gif" alt="" width="100%"/>
+<img src="./education.png" alt="Education" width="90%"/>
 
 ### Computer Programming Diploma
 
@@ -242,8 +242,8 @@ My studies introduced me to web development, programming, databases, software de
 </div>
 
 <div align="center">
-<img src="./assets/animated-divider.gif" alt="" width="100%"/>
-<img src="./assets/connect.png" alt="Connect" width="90%"/>
+<img src="./animated-divider.gif" alt="" width="100%"/>
+<img src="./connect.png" alt="Connect" width="90%"/>
 
 <a href="https://portfolio-jaspreet-985.netlify.app/">
   <img src="https://img.shields.io/badge/Explore_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio"/>
@@ -257,6 +257,6 @@ My studies introduced me to web development, programming, databases, software de
 
 <br><br>
 
-<img src="./assets/footer-animation.gif" alt="Build, learn, create and improve" width="100%"/>
+<img src="./footer-animation.gif" alt="Build, learn, create and improve" width="100%"/>
 
 </div>
