@@ -1,29 +1,49 @@
+
 <div align="center">
 
 <img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4A1334,45:7B2E5F,100:B784C8&text=Jaspreet%20Kaur&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Web%20Application%20Developer&descSize=16&descAlignY=60&animation=fadeIn"
-alt="Jaspreet Kaur"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4A1334,50:7B2E5F,100:B784C8&text=Jaspreet%20Kaur&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Web%20Developer&descSize=17&descAlignY=60&animation=fadeIn"
+  alt="Jaspreet Kaur"
 />
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3500&pause=1200&color=B784C8&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=60&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Modern+Web;Building+Clean+%26+Responsive+Experiences"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=3200&pause=1400&color=B784C8&center=true&vCenter=true&width=920&height=60&lines=Building+Thoughtful+Digital+Experiences;Transforming+Ideas+into+Interactive+Interfaces;Always+Learning+%E2%80%A2+Always+Building"
+    alt="Animated introduction"
   />
 </a>
 
-<div align="center">
-<div align="center">
+<br />
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>Building user-focused digital experiences</h3>
+      <p>
+        Creating responsive and modern web applications with clean code,
+        thoughtful design, and attention to usability.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-4A1334?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Portfolio-4A1334?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-7B2E5F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-7B2E5F?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 </div>
