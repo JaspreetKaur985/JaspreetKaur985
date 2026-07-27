@@ -8,9 +8,12 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=3200&pause=1200&color=B784C8&center=true&vCenter=true&width=820&height=52&lines=Creating+Modern+Interfaces;Building+Responsive+Applications;Improving+Through+Every+Project"
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1400&color=B784C8&center=true&vCenter=true&width=900&height=60&lines=Frontend+Developer;React+%26+JavaScript+Developer;Building+Responsive+Web+Applications;Clean+Architecture+%26+UI+Design;Open+to+Full-Time+Opportunities"
+    alt="Typing Animation"
   />
+</a>
+
+<br /><br />
 
 <a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
   <img
@@ -32,9 +35,9 @@
 
 <br />
 
-
-<table width="100%"> <tr> <td width="62%" valign="top">
-
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
 About Me
 I enjoy turning ideas into practical web experiences that feel clear, responsive, and easy to use.
 
