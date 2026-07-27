@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img
@@ -22,8 +21,8 @@
 
 <a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
   <img
-    src="https://img.shields.io/badge/Portfolio-4A1334?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfolio"
+    src="https://img.shields.io/badge/Website-A66C8A?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Website"
   />
 </a>
 
@@ -31,7 +30,7 @@
 
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
   <img
-    src="https://img.shields.io/badge/LinkedIn-7B2E5F?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-6D214F?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
@@ -39,6 +38,7 @@
 </div>
 
 <br />
+
 
 <table width="100%"> <tr> <td width="62%" valign="top">
 
