@@ -1,465 +1,423 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:F9A8D4,50:F472B6,100:C084FC&text=Jaspreet%20Kaur&fontSize=48&fontColor=FFFFFF&fontAlignY=37&animation=fadeIn&desc=Frontend%20%7C%20Backend%20%7C%20Web%20Application%20Developer&descSize=18&descAlignY=58" alt="Jaspreet Kaur profile header"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:F7D9E7,45:E9B8D5,100:C8A2C8&text=Jaspreet%20Kaur&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Web%20Application%20Developer&descSize=16&descAlignY=59&animation=fadeIn"
+width="100%"
+alt="Jaspreet Kaur — Frontend Developer"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&repeat=true&width=820&height=55&lines=Building+responsive+and+user-focused+web+applications;Developing+frontend+and+backend+functionality;Creating+clean%2C+modern%2C+and+maintainable+experiences" alt="Animated introduction"/>
+<br />
 
-<br>
+<p>
+  <strong>Computer Programming graduate building responsive, accessible, and user-focused web applications.</strong>
+</p>
 
-<a href="https://portfolio-jaspreet-985.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-F472B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382">
-<img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/JaspreetKaur985">
-<img src="https://img.shields.io/badge/GitHub-E879F9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<p>
+  <a href="https://portfolio-jaspreet-985.netlify.app/">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-7F5A83?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/">
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-A66C8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</p>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Open_to_Web_Development_Opportunities-FDA4AF?style=for-the-badge&logoColor=831843" alt="Open to web development opportunities"/>
+<p>
+  Based in Ontario, Canada &nbsp;•&nbsp; Open to developer opportunities across Canada
+</p>
 
 </div>
 
-<br>
+<br />
 
-<div align="center">
+Professional Profile
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=68&color=0:FDF2F8,50:FCE7F3,100:F3E8FF&text=About%20Me&fontSize=25&fontColor=BE185D&animation=fadeIn" alt="About Me"/>
+I am a Computer Programming graduate from Georgian College with hands-on experience building responsive websites and interactive web applications.
 
-<br>
+My work focuses on creating interfaces that are clear, reliable, and easy to use. I enjoy transforming requirements into structured layouts, reusable components, and practical application features using modern frontend technologies.
 
-<table width="100%">
+I am currently pursuing opportunities where I can contribute as a Frontend Developer, React Developer, Web Developer, or Junior Software Developer while continuing to strengthen my full-stack development skills.
+
+What I Bring
+
+<table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<h3 align="center">Professional Background</h3>
+Frontend Development
 
-<p align="center">
-Computer Programming graduate<br>
-from Georgian College
-</p>
-
-<p align="center">
-Web developer based in Canada
-</p>
-
-<p align="center">
-Focused on frontend, backend,<br>
-and web application development
-</p>
-
-<p align="center">
-Open to junior development<br>
-opportunities across Canada
-</p>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<h3 align="center">Development Focus</h3>
-
-<p align="center">
 Responsive and mobile-first interfaces
-</p>
 
-<p align="center">
-React and JavaScript applications
-</p>
+Reusable React components
 
-<p align="center">
-Backend functionality and APIs
-</p>
+Modern JavaScript functionality
 
-<p align="center">
-Database and Firebase integration
-</p>
+Semantic HTML structure
 
-<p align="center">
-Clean and maintainable code
-</p>
+Maintainable CSS organization
+
+Cross-device compatibility
+
+Accessible user interactions
+
+Clear visual hierarchy
+
+</td>
+<td width="50%" valign="top">
+
+Web Application Development
+
+API integration
+
+Firebase authentication
+
+Application state and data flow
+
+Form handling and validation
+
+Database fundamentals
+
+Error handling
+
+Deployment and documentation
+
+Frontend and backend integration
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<br>
+Technology Stack
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=68&color=0:F3E8FF,50:FCE7F3,100:FDF2F8&text=Technology%20Stack&fontSize=25&fontColor=9333EA&animation=fadeIn" alt="Technology Stack"/>
+Frontend
 
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-<h3 align="center">Frontend</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend technologies"/>
-
-<br><br>
-
-<p align="center">
-HTML5<br>
-CSS3<br>
-JavaScript<br>
-React<br>
-Bootstrap
+<p>
+  <img src="https://img.shields.io/badge/HTML5-7F5A83?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-8F668E?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-A66C8A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-B7789B?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-C98DAA?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Vite-9B709E?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-</td>
+Backend and Data
 
-<td width="33%" align="center" valign="top">
-
-<h3 align="center">Backend</h3>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" alt="Backend technologies"/>
-
-<br><br>
-
-<p align="center">
-Node.js<br>
-Express.js<br>
-Firebase<br>
-REST APIs<br>
-Authentication
+<p>
+  <img src="https://img.shields.io/badge/Node.js-7F5A83?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-8F668E?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Firebase-A66C8A?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-B7789B?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/REST_APIs-C98DAA?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
 </p>
 
-</td>
+Tools and Deployment
 
-<td width="33%" align="center" valign="top">
-
-<h3 align="center">Programming</h3>
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql" alt="Programming and database technologies"/>
-
-<br><br>
-
-<p align="center">
-Java<br>
-Python<br>
-MySQL<br>
-Database Fundamentals<br>
-Problem Solving
+<p>
+  <img src="https://img.shields.io/badge/Git-7F5A83?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-8F668E?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-A66C8A?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Figma-B7789B?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Netlify-C98DAA?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Vercel-9B709E?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="50%" align="center" valign="top">
-
-<h3 align="center">Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development tools"/>
-
-<br><br>
-
-<p align="center">
-Git · GitHub · VS Code · Figma
-</p>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<h3 align="center">Deployment</h3>
-
-<img src="https://skillicons.dev/icons?i=netlify,vercel" alt="Deployment platforms"/>
-
-<br><br>
-
-<p align="center">
-Netlify · Vercel · GitHub Pages
-</p>
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
-<br>
+Engineering Approach
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=68&color=0:FDF2F8,50:FCE7F3,100:F3E8FF&text=Core%20Strengths&fontSize=25&fontColor=BE185D&animation=fadeIn" alt="Core Strengths"/>
-
-<br>
-
-<table width="100%">
+<table>
 <tr>
-
 <td width="25%" align="center" valign="top">
 
-<h3 align="center">Responsive Design</h3>
+01 — Understand
 
-<p align="center">
-Mobile-first layouts<br>
-Flexible interfaces<br>
-Cross-device support
-</p>
+Clarify the user need, project goal, required features, and technical constraints.
 
 </td>
-
 <td width="25%" align="center" valign="top">
 
-<h3 align="center">Frontend Development</h3>
+02 — Structure
 
-<p align="center">
-Reusable components<br>
-Interactive interfaces<br>
-Modern layouts
-</p>
+Plan the layout, component hierarchy, data flow, and development priorities.
 
 </td>
-
 <td width="25%" align="center" valign="top">
 
-<h3 align="center">Backend Development</h3>
+03 — Build
 
-<p align="center">
-Application logic<br>
-API integration<br>
-Authentication
-</p>
+Develop responsive interfaces and functional features with organized code.
 
 </td>
-
 <td width="25%" align="center" valign="top">
 
-<h3 align="center">Code Quality</h3>
+04 — Refine
 
-<p align="center">
-Readable code<br>
-Clean structure<br>
-Maintainable solutions
-</p>
+Test interactions, responsiveness, accessibility, performance, and usability.
 
 </td>
-
 </tr>
 </table>
 
-</div>
+Development Standards
 
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=68&color=0:F3E8FF,50:FCE7F3,100:FDF2F8&text=Development%20Process&fontSize=25&fontColor=9333EA&animation=fadeIn" alt="Development Process"/>
-
-<br>
-
-<table width="100%">
+<table>
 <tr>
+<td width="33%" valign="top">
 
-<td width="20%" align="center" valign="top">
+Maintainability
 
-<h3 align="center">01</h3>
-<h4 align="center">Understand</h4>
-
-<p align="center">
-Define the purpose<br>
-and user needs
-</p>
+I organize projects into understandable sections, use descriptive naming, and keep components focused on clear responsibilities.
 
 </td>
+<td width="33%" valign="top">
 
-<td width="20%" align="center" valign="top">
+Responsiveness
 
-<h3 align="center">02</h3>
-<h4 align="center">Plan</h4>
-
-<p align="center">
-Structure the layout<br>
-and application
-</p>
+I design for different screen sizes and verify layouts across mobile, tablet, and desktop breakpoints.
 
 </td>
+<td width="33%" valign="top">
 
-<td width="20%" align="center" valign="top">
+User Experience
 
-<h3 align="center">03</h3>
-<h4 align="center">Build</h4>
-
-<p align="center">
-Develop the interface<br>
-and functionality
-</p>
+I prioritize readable content, predictable interactions, accessible controls, and consistent visual presentation.
 
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
-<td width="20%" align="center" valign="top">
+Reliability
 
-<h3 align="center">04</h3>
-<h4 align="center">Test</h4>
-
-<p align="center">
-Review usability<br>
-and responsiveness
-</p>
+I test navigation, forms, links, authentication flows, API responses, and edge cases before deployment.
 
 </td>
+<td width="33%" valign="top">
 
-<td width="20%" align="center" valign="top">
+Performance
 
-<h3 align="center">05</h3>
-<h4 align="center">Deploy</h4>
-
-<p align="center">
-Refine, document,<br>
-and publish
-</p>
+I consider image optimization, component structure, unnecessary rendering, and efficient asset delivery.
 
 </td>
+<td width="33%" valign="top">
 
+Documentation
+
+I create clear project documentation so technologies, features, setup, and implementation decisions are easy to understand.
+
+</td>
 </tr>
 </table>
 
-</div>
+Core Competencies
 
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=68&color=0:FDF2F8,50:FCE7F3,100:F3E8FF&text=Education%20and%20Growth&fontSize=25&fontColor=BE185D&animation=fadeIn" alt="Education and Growth"/>
-
-<br>
-
-<table width="100%">
+<table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%" align="center" valign="top">
+Responsive web development
 
-<h3 align="center">Education</h3>
+Component-based user interfaces
 
-<h4 align="center">Computer Programming Diploma</h4>
+JavaScript application logic
 
-<p align="center">
+React fundamentals
+
+API consumption
+
+Authentication workflows
+
+Form validation
+
+Dynamic content rendering
+
+</td>
+<td width="50%" valign="top">
+
+Version control with Git
+
+Repository documentation
+
+Application deployment
+
+Database fundamentals
+
+Debugging and troubleshooting
+
+Interface consistency
+
+Technical problem solving
+
+Continuous improvement
+
+</td>
+</tr>
+</table>
+
+Education
+
+<table>
+<tr>
+<td width="22%" align="center" valign="middle">
+
 Georgian College
-</p>
 
-<p align="center">
-Web Development<br>
-Object-Oriented Programming<br>
-Database Systems<br>
-Software Development<br>
-Application Testing
-</p>
+Ontario, Canada
 
 </td>
+<td width="78%" valign="top">
 
-<td width="50%" align="center" valign="top">
+Computer Programming Diploma
 
-<h3 align="center">Currently Developing</h3>
+Academic training included:
 
-<p align="center">
-Advanced React<br>
-Modern JavaScript<br>
-Backend Development<br>
-TypeScript Fundamentals<br>
-Web Accessibility<br>
-Performance Optimization
-</p>
+Web and application development
+
+Object-oriented programming
+
+Database systems
+
+Software development fundamentals
+
+User-interface development
+
+Application testing and debugging
+
+Technical documentation
+
+Problem solving and programming logic
 
 </td>
-
 </tr>
 </table>
 
-</div>
+Current Development Focus
 
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=68&color=0:F3E8FF,50:FCE7F3,100:FDF2F8&text=Professional%20Direction&fontSize=25&fontColor=9333EA&animation=fadeIn" alt="Professional Direction"/>
-
-<br>
-
-<table width="100%">
+<table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%" align="center" valign="top">
+Strengthening
 
-<h3 align="center">Target Roles</h3>
+Advanced React patterns
 
-<p align="center">
-Frontend Developer<br>
-Junior Frontend Developer<br>
-Web Developer<br>
-Web Application Developer<br>
-Junior Full-Stack Developer<br>
-Junior Software Developer
-</p>
+Modern JavaScript
 
-</td>
+Component architecture
 
-<td width="50%" align="center" valign="top">
+API and database integration
 
-<h3 align="center">What I Bring</h3>
-
-<p align="center">
-Responsive development<br>
-Frontend and backend integration<br>
-Strong attention to detail<br>
-Continuous learning<br>
-Reliable project delivery<br>
-User-focused problem solving
-</p>
+Backend application development
 
 </td>
+<td width="50%" valign="top">
 
+Expanding
+
+TypeScript
+
+Web accessibility
+
+Automated testing
+
+Performance optimization
+
+Scalable application structure
+
+</td>
+</tr>
+</table>
+
+Professional Value
+
+I aim to contribute more than completed screens. I bring a thoughtful development process, attention to detail, a willingness to learn, and a strong commitment to delivering dependable work.
+
+My goal is to join a collaborative team where I can:
+
+Build useful and polished web experiences
+
+Learn from experienced developers
+
+Contribute to real product requirements
+
+Improve code quality through feedback
+
+Grow into broader software engineering responsibilities
+
+Opportunities of Interest
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><strong>Frontend Developer</strong></td>
+<td align="center"><strong>React Developer</strong></td>
+<td align="center"><strong>Web Developer</strong></td>
+</tr>
+<tr>
+<td align="center"><strong>Junior Software Developer</strong></td>
+<td align="center"><strong>Web Application Developer</strong></td>
+<td align="center"><strong>UI Developer</strong></td>
 </tr>
 </table>
 
 </div>
 
-<br>
+I am open to full-time, junior, and early-career developer opportunities across Canada, including on-site, hybrid, and remote environments.
+
+Beyond the Code
+
+I value professionalism, clear communication, accountability, and steady improvement.
+
+When working on a project, I focus on:
+
+Understanding expectations before implementation
+
+Communicating blockers clearly
+
+Accepting feedback constructively
+
+Keeping work organized
+
+Following through on commitments
+
+Learning unfamiliar tools when required
+
+Improving both technical quality and user experience
+
+Connect
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=68&color=0:FDF2F8,50:FCE7F3,100:F3E8FF&text=Connect%20With%20Me&fontSize=25&fontColor=BE185D&animation=fadeIn" alt="Connect With Me"/>
-
-<br>
-
-<p align="center">
-I am open to opportunities where I can contribute, continue learning,<br>
-and grow as a frontend, backend, or web application developer.
+<p>
+  Explore my work through my portfolio and pinned repositories, or connect with me on LinkedIn.
 </p>
 
-<br>
+<p>
+  <a href="https://portfolio-jaspreet-985.netlify.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-7F5A83?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/">
+    <img src="https://img.shields.io/badge/LINKEDIN-A66C8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/JaspreetKaur985">
+    <img src="https://img.shields.io/badge/GITHUB-C98DAA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<a href="https://portfolio-jaspreet-985.netlify.app/">
-<img src="https://img.shields.io/badge/Explore_My_Portfolio-F472B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
+<br />
 
-<br><br>
+<strong>Open to opportunities where I can contribute, learn, and grow as a developer.</strong>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&repeat=true&width=760&height=50&lines=Building+modern+web+applications;Learning+through+every+project;Creating+better+digital+experiences" alt="Animated closing message"/>
+<br />
+<br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&color=0:C084FC,50:F472B6,100:F9A8D4&section=footer&animation=fadeIn" alt="Profile footer"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:C8A2C8,50:E9B8D5,100:F7D9E7"
+width="100%"
+alt=""
+/>
 
 </div>
 
