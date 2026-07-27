@@ -1,19 +1,40 @@
-README.md
-
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:4A1334,45:7B2E5F,100:B784C8&text=Jaspreet%20Kaur&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Modern%20Web%20Applications&descSize=18&descAlignY=61&animation=fadeIn" alt="Jaspreet Kaur" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:4A1334,45:7B2E5F,100:B784C8&text=Jaspreet%20Kaur&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Responsive%20Web%20Experiences%20%E2%80%A2%20Clean%20Code&descSize=18&descAlignY=61&animation=fadeIn"
+  alt="Jaspreet Kaur"
+/>
 
-<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=3200&pause=1200&color=B784C8&center=true&vCenter=true&width=820&height=52&lines=Creating+Modern+Interfaces;Building+Responsive+Applications;Learning+Through+Every+Project" alt="Typing animation" /> </a>
-
-<br />
-
-<a href="https://portfolio-jaspreet-985.netlify.app/"> <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-4A1334?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> &nbsp; <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/"> <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-7B2E5F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=3200&pause=1200&color=B784C8&center=true&vCenter=true&width=820&height=52&lines=Creating+Modern+Interfaces;Building+Responsive+Applications;Improving+Through+Every+Project"
+    alt="Typing animation"
+  />
+</a>
 
 <br /><br />
 
-<p> Frontend developer and Computer Programming graduate building responsive, clean, and user-focused web applications with React and JavaScript. </p>
+<h2>Building modern web experiences.</h2>
+
+<br />
+
+<a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Portfolio-4A1334?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-7B2E5F?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
 </div>
 
