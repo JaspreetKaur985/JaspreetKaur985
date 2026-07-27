@@ -2,13 +2,13 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:4B1535,45:7A315E,100:B786C7&text=Jaspreet%20Kaur&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Web%20Application%20Developer&descSize=16&descAlignY=59&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4B1535,48:7A315E,100:B786C7&text=Jaspreet%20Kaur&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Web%20Application%20Developer&descSize=16&descAlignY=60&animation=fadeIn"
 alt="Jaspreet Kaur"
 />
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1100&color=8E5572&center=true&vCenter=true&width=760&lines=Building+responsive+web+experiences;Creating+clean+React+interfaces;Turning+ideas+into+working+applications"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=21&pause=1100&color=8E5572&center=true&vCenter=true&width=760&lines=Building+responsive+and+user-focused+web+experiences;Creating+modern+interfaces+with+React+and+JavaScript;Turning+ideas+into+clear+and+practical+applications"
     alt="Animated introduction"
   />
 </a>
@@ -28,22 +28,22 @@ alt="Jaspreet Kaur"
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="58%" valign="top">
 
 About Me
 
-Computer Programming graduate focused on frontend and React development.
+Frontend-focused developer
 
-Building responsive, practical, and polished web applications.
+Computer Programming graduate building responsive web applications with React, JavaScript, HTML, CSS, and modern development tools.
 
 </td>
-<td width="44%" valign="top">
+<td width="42%" valign="top">
 
-Quick View
+Quick Profile
 
 Ontario, Canada
 
-Open to full-time developer opportunities
+Open to full-time frontend, React, web development, and junior software development opportunities across Canada.
 
 </td>
 </tr>
@@ -51,22 +51,22 @@ Open to full-time developer opportunities
 
 <table>
 <tr>
-<td width="44%" valign="top">
+<td width="42%" valign="top">
 
-Academic Highlights
+Education
 
-Georgian College
+Computer Programming Diploma
 
-Four-Time Dean's List
+Georgian College graduate with a broad foundation in web development, programming, databases, testing, and software engineering.
 
 </td>
-<td width="56%" valign="top">
+<td width="58%" valign="top">
 
-Professional Focus
+Academic Recognition
 
-Frontend Development
+Four-Time Dean's Honour List Recipient
 
-React and Web Applications
+Recognized for consistent academic performance, discipline, and commitment across multiple terms.
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ Tools and Deployment
 
 <img src="https://img.shields.io/badge/Git-4B1535?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-6D214F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-8E5572?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/VS_Code-8E5572?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
 <img src="https://img.shields.io/badge/Figma-A66C8A?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/Netlify-B76E79?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 <img src="https://img.shields.io/badge/Vercel-C38EC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -114,20 +114,43 @@ Tools and Deployment
 <tr>
 <td width="50%" valign="top">
 
-Frontend Strengths
+What I Build
 
-Responsive layouts and reusable components
+Responsive web experiences
 
-Clear interfaces built for mobile, tablet, and desktop.
+Developing layouts and interfaces that remain clear, functional, and consistent across mobile, tablet, and desktop screens.
 
 </td>
 <td width="50%" valign="top">
 
+How I Build
+
+Clean and reusable solutions
+
+Organizing components, application logic, and styling so projects are easier to understand, maintain, and improve.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 Application Skills
 
-APIs, authentication, and dynamic features
+Interfaces connected to real functionality
 
-Connecting user interfaces with real application functionality.
+Working with reusable React components, API integrations, Firebase authentication, forms, validation, and dynamic content.
+
+</td>
+<td width="50%" valign="top">
+
+Development Mindset
+
+Thoughtful work over unnecessary complexity
+
+Focusing on usability, clear structure, consistent design, reliable behaviour, and practical solutions.
 
 </td>
 </tr>
@@ -136,44 +159,21 @@ Connecting user interfaces with real application functionality.
 <table>
 <tr>
 <td width="42%" valign="top">
-
-How I Work
-
-Plan clearly
-
-Build carefully
-
-</td>
-<td width="58%" valign="top">
-
-Development Style
-
-Clean structure and simple logic
-
-Code that is easier to understand, maintain, and improve.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="58%" valign="top">
 
 Current Focus
 
-Advanced React and TypeScript
+Expanding my development depth
 
-Improving application structure, performance, and scalability.
+Advanced React, TypeScript, web performance, accessibility, testing, and backend architecture.
 
 </td>
-<td width="42%" valign="top">
+<td width="58%" valign="top">
 
-Open To
+Career Direction
 
-Frontend Developer
+Growing through real product work
 
-React Developer
+Seeking a collaborative team where I can contribute, learn from experienced developers, and grow into broader software engineering responsibilities.
 
 </td>
 </tr>
@@ -181,25 +181,20 @@ React Developer
 
 <div align="center">
 
-Let's Connect
+Always learning. Always building.
 
-Explore my work or connect with me professionally.
+Creating thoughtful digital experiences through clean code, clear design, and continuous improvement.
 
 <br />
 
-<a href="https://portfolio-jaspreet-985.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-4B1535?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/">
-  <img src="https://img.shields.io/badge/LINKEDIN-7A315E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<i>"Good software begins with understanding the problem and improves with every thoughtful decision."</i>
 
 <br />
 <br />
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:B786C7,50:7A315E,100:4B1535"
+src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:4B1535,50:7A315E,100:B786C7"
 alt=""
 />
 
