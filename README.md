@@ -2,13 +2,13 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4B1535,48:7A315E,100:B786C7&text=Jaspreet%20Kaur&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Web%20Application%20Developer&descSize=16&descAlignY=60&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4A1334,45:7B2E5F,100:B784C8&text=Jaspreet%20Kaur&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Web%20Application%20Developer&descSize=16&descAlignY=60&animation=fadeIn"
 alt="Jaspreet Kaur"
 />
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=21&pause=1100&color=8E5572&center=true&vCenter=true&width=760&lines=Building+responsive+and+user-focused+web+experiences;Creating+modern+interfaces+with+React+and+JavaScript;Turning+ideas+into+clear+and+practical+applications"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=21&pause=1100&color=8E5572&center=true&vCenter=true&width=780&lines=Building+responsive+web+experiences;Creating+modern+interfaces+with+React;Turning+ideas+into+clean+and+practical+applications"
     alt="Animated introduction"
   />
 </a>
@@ -16,10 +16,10 @@ alt="Jaspreet Kaur"
 <br />
 
 <a href="https://portfolio-jaspreet-985.netlify.app/">
-  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-4B1535?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
+  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-4A1334?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/">
-  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-7A315E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-7B2E5F?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 
 </div>
@@ -32,18 +32,18 @@ alt="Jaspreet Kaur"
 
 About Me
 
-Frontend-focused developer
+Frontend developer with a practical approach
 
-Computer Programming graduate building responsive web applications with React, JavaScript, HTML, CSS, and modern development tools.
+I build responsive web applications with React, JavaScript, HTML, and CSS, focusing on clean interfaces, clear structure, and reliable user experiences.
 
 </td>
 <td width="42%" valign="top">
 
-Quick Profile
+At a Glance
 
 Ontario, Canada
 
-Open to full-time frontend, React, web development, and junior software development opportunities across Canada.
+Computer Programming GraduateFour-Time Dean's Honour ListOpen to Full-Time Opportunities
 
 </td>
 </tr>
@@ -57,16 +57,16 @@ Education
 
 Computer Programming Diploma
 
-Georgian College graduate with a broad foundation in web development, programming, databases, testing, and software engineering.
+Georgian College graduate with experience in web development, application programming, databases, testing, and software design.
 
 </td>
 <td width="58%" valign="top">
 
-Academic Recognition
+What I Bring
 
-Four-Time Dean's Honour List Recipient
+Technical skill with design awareness
 
-Recognized for consistent academic performance, discipline, and commitment across multiple terms.
+I combine frontend development, problem solving, and attention to detail to create applications that are clear, functional, and easy to use.
 
 </td>
 </tr>
@@ -76,58 +76,63 @@ Recognized for consistent academic performance, discipline, and commitment acros
 
 Technology Stack
 
-Frontend
-
-<img src="https://img.shields.io/badge/HTML5-4B1535?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-6D214F?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-8E5572?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-A66C8A?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Bootstrap-B76E79?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/Vite-C38EC7?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-
-<br />
-<br />
-
-Backend and Data
-
-<img src="https://img.shields.io/badge/Node.js-4B1535?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-6D214F?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/Firebase-8E5572?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-<img src="https://img.shields.io/badge/MySQL-A66C8A?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/REST_APIs-B786C7?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-
-<br />
-<br />
-
-Tools and Deployment
-
-<img src="https://img.shields.io/badge/Git-4B1535?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-6D214F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-8E5572?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-<img src="https://img.shields.io/badge/Figma-A66C8A?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Netlify-B76E79?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-<img src="https://img.shields.io/badge/Vercel-C38EC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-What I Build
+<img src="https://skillicons.dev/icons?i=react" width="42" alt="Frontend" />
 
-Responsive web experiences
+Frontend
 
-Developing layouts and interfaces that remain clear, functional, and consistent across mobile, tablet, and desktop screens.
+<img src="https://img.shields.io/badge/HTML5-4A1334?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<br />
+<img src="https://img.shields.io/badge/CSS3-6D214F?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+<br />
+<img src="https://img.shields.io/badge/JavaScript-8E5572?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+<br />
+<img src="https://img.shields.io/badge/React-A66C8A?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+<br />
+<img src="https://img.shields.io/badge/Bootstrap-B76E79?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<br />
+<img src="https://img.shields.io/badge/Vite-B784C8?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-How I Build
+<img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Backend" />
 
-Clean and reusable solutions
+Backend & Data
 
-Organizing components, application logic, and styling so projects are easier to understand, maintain, and improve.
+<img src="https://img.shields.io/badge/Node.js-4A1334?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<br />
+<img src="https://img.shields.io/badge/Express.js-6D214F?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<br />
+<img src="https://img.shields.io/badge/Firebase-8E5572?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+<br />
+<img src="https://img.shields.io/badge/MySQL-A66C8A?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<br />
+<img src="https://img.shields.io/badge/REST_APIs-B784C8?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://skillicons.dev/icons?i=github" width="42" alt="Tools" />
+
+Tools & Deployment
+
+<img src="https://img.shields.io/badge/Git-4A1334?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<br />
+<img src="https://img.shields.io/badge/GitHub-6D214F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<br />
+<img src="https://img.shields.io/badge/VS_Code-8E5572?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<br />
+<img src="https://img.shields.io/badge/Figma-A66C8A?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<br />
+<img src="https://img.shields.io/badge/Netlify-B76E79?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+<br />
+<img src="https://img.shields.io/badge/Vercel-B784C8?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 
 </td>
 </tr>
@@ -137,20 +142,43 @@ Organizing components, application logic, and styling so projects are easier to 
 <tr>
 <td width="50%" valign="top">
 
-Application Skills
+What I Build
 
-Interfaces connected to real functionality
+Responsive and interactive interfaces
 
-Working with reusable React components, API integrations, Firebase authentication, forms, validation, and dynamic content.
+I create layouts that work across screen sizes and connect them to forms, APIs, authentication, and dynamic content.
 
 </td>
 <td width="50%" valign="top">
 
-Development Mindset
+How I Work
 
-Thoughtful work over unnecessary complexity
+Clear structure from start to finish
 
-Focusing on usability, clear structure, consistent design, reliable behaviour, and practical solutions.
+I plan the layout, build reusable components, test functionality, and refine the final experience before deployment.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+Core Strengths
+
+Practical frontend development
+
+Responsive DesignReact ComponentsAPI Integration
+
+</td>
+<td width="50%" valign="top">
+
+Development Standards
+
+Quality that supports long-term growth
+
+Readable CodeConsistent UIMaintainable Structure
 
 </td>
 </tr>
@@ -162,18 +190,18 @@ Focusing on usability, clear structure, consistent design, reliable behaviour, a
 
 Current Focus
 
-Expanding my development depth
+Expanding beyond the fundamentals
 
-Advanced React, TypeScript, web performance, accessibility, testing, and backend architecture.
+Advanced ReactTypeScriptWeb Performance
 
 </td>
 <td width="58%" valign="top">
 
 Career Direction
 
-Growing through real product work
+Ready to contribute and keep growing
 
-Seeking a collaborative team where I can contribute, learn from experienced developers, and grow into broader software engineering responsibilities.
+I am seeking a team where I can work on real products, learn from experienced developers, and grow into broader software engineering responsibilities.
 
 </td>
 </tr>
@@ -183,18 +211,18 @@ Seeking a collaborative team where I can contribute, learn from experienced deve
 
 Always learning. Always building.
 
-Creating thoughtful digital experiences through clean code, clear design, and continuous improvement.
+Frontend Development • React • Clean Code • User Experience • Continuous Improvement
 
 <br />
 
-<i>"Good software begins with understanding the problem and improves with every thoughtful decision."</i>
+<i>"Good software is shaped by clear thinking, thoughtful design, and consistent improvement."</i>
 
 <br />
 <br />
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:4B1535,50:7A315E,100:B786C7"
+src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:4A1334,50:7B2E5F,100:B784C8"
 alt=""
 />
 
