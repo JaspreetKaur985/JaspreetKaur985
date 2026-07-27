@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img
@@ -11,7 +12,7 @@
     src="https://img.shields.io/badge/Website-B784C8?style=for-the-badge&logoColor=white"
     alt="Website"
   />
-</a>&nbsp;
+</a>
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
   <img
     src="https://img.shields.io/badge/LinkedIn-6D214F?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -20,6 +21,7 @@
 </a>
 
 <br />
+
 <a href="https://git.io/typing-svg">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3000&pause=1200&color=B784C8&center=true&vCenter=true&width=900&height=58&lines=Developing+Responsive+Frontend+Applications;Creating+Intuitive+and+User-Focused+Interfaces;Building+Reusable+React+Components;Integrating+APIs+and+Dynamic+Data;Optimizing+Websites+for+Performance+and+Usability"
@@ -28,40 +30,47 @@
 </a>
 
 </div>
-<div align="center">
-
-## About Me
-
-<p>
-  I enjoy turning ideas into practical web experiences that feel
-  <strong>clear, responsive, and easy to use</strong>.
-</p>
-
-<p>
-  My focus is on <strong>frontend development</strong>,
-  <strong>reusable React components</strong>,
-  <strong>API-driven interfaces</strong>, and polished layouts that work
-  smoothly across different screen sizes.
-</p>
 
 <br />
 
-## Profile
+<!-- ABOUT ME -->
+
+<div align="center">
+
+<h2>About Me</h2>
+
+<p>
+  Frontend developer focused on building responsive, accessible, and visually polished
+  web applications. I enjoy transforming ideas into practical digital experiences
+  through structured code, reusable components, intuitive interfaces, and thoughtful
+  attention to detail.
+</p>
+
+<p>
+  My work combines <strong>React development</strong>,
+  <strong>API integration</strong>, <strong>responsive design</strong>, and
+  <strong>modern frontend practices</strong> to create applications that feel clear,
+  reliable, and easy to use.
+</p>
 
 <img
-  src="https://img.shields.io/badge/Location-Ontario%2C%20Canada-B784C8?style=flat-square"
+  src="https://img.shields.io/badge/Ontario%2C%20Canada-B784C8?style=flat-square&logo=googlemaps&logoColor=white"
   alt="Ontario, Canada"
 />
 <img
-  src="https://img.shields.io/badge/Education-Georgian%20College-7B2E5F?style=flat-square"
+  src="https://img.shields.io/badge/Georgian%20College-7B2E5F?style=flat-square"
   alt="Georgian College Graduate"
 />
 <img
-  src="https://img.shields.io/badge/Achievement-4×%20Dean's%20Honour%20List-9A5A8A?style=flat-square"
+  src="https://img.shields.io/badge/GPA-4.0-9A5A8A?style=flat-square"
+  alt="4.0 GPA"
+/>
+<img
+  src="https://img.shields.io/badge/Dean's%20Honour%20List-4%C3%97-6D214F?style=flat-square"
   alt="Four-Time Dean's Honour List"
 />
 <img
-  src="https://img.shields.io/badge/Status-Open%20to%20Full--Time%20Roles-6D214F?style=flat-square"
+  src="https://img.shields.io/badge/Open%20to-Full--Time%20Roles-A66C8A?style=flat-square"
   alt="Open to Full-Time Roles"
 />
 
@@ -69,77 +78,203 @@
 
 <br />
 
-
-Technology Stack
-<img src="https://img.shields.io/badge/HTML5-4A1334?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-5C1F46?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-6D2B55?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-7B2E5F?style=for-the-badge&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Bootstrap-8E5572?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Vite-A66C8A?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Node.js-4A1334?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-5C1F46?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/Firebase-6D2B55?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" /> <img src="https://img.shields.io/badge/MySQL-7B2E5F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/REST_APIs-8E5572?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4A1334,50:7B2E5F,100:B784C8"
+  alt=""
+/>
 
 <br />
 
-<img src="https://img.shields.io/badge/Git-4A1334?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-5C1F46?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-6D2B55?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Figma-7B2E5F?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Netlify-8E5572?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /> <img src="https://img.shields.io/badge/Vercel-A66C8A?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-
-</div>
-
-<br />
-
-<table width="100%"> <tr> <td width="33%" valign="top">
-
-Responsive UI
-Interfaces designed to remain clear, balanced, and usable across mobile, tablet, and desktop.
-
-</td> <td width="33%" valign="top">
-
-React Development
-Reusable components, structured layouts, state-driven interactions, and maintainable frontend code.
-
-</td> <td width="33%" valign="top">
-
-API Integration
-Dynamic applications connected to APIs, authentication, forms, and real-time data.
-
-</td> </tr> </table>
-
-<br />
-
-<table width="100%"> <tr> <td width="50%" valign="top">
-
-What I Value
-Clean structure
-
-Consistent design
-
-Readable code
-
-Reliable functionality
-
-</td> <td width="50%" valign="top">
-
-Current Focus
-Advanced React
-
-TypeScript
-
-Accessibility
-
-Web performance
-
-</td> </tr> </table>
-
-<br />
+<!-- TECHNOLOGY STACK -->
 
 <div align="center">
 
-Ready to contribute, learn, and grow.
-<p> Seeking a frontend or web development opportunity where I can build real products, collaborate with experienced developers, and continue expanding my technical skills. </p>
+<h2>Technology Stack</h2>
 
-<br />
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite"
+  alt="Frontend Technologies"
+/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:4A1334,50:7B2E5F,100:B784C8" alt="" />
+<br /><br />
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,postman"
+  alt="Backend and Database Technologies"
+/>
+
+<br /><br />
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel"
+  alt="Development Tools"
+/>
 
 </div>
 
+<br />
 
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4A1334,50:7B2E5F,100:B784C8"
+  alt=""
+/>
 
+<br />
+
+<!-- DEVELOPMENT EXPERTISE -->
+
+<div align="center">
+
+<h2>Development Expertise</h2>
+
+<h3>Responsive Interfaces</h3>
+
+<p>
+  Designing balanced and adaptable layouts that provide a consistent experience
+  across mobile, tablet, and desktop screens.
+</p>
+
+<h3>React Development</h3>
+
+<p>
+  Building reusable components, organized application structures,
+  state-driven interactions, and maintainable frontend code.
+</p>
+
+<h3>API Integration</h3>
+
+<p>
+  Connecting applications with external services, dynamic data,
+  authentication systems, forms, and real-time functionality.
+</p>
+
+<h3>User-Focused Design</h3>
+
+<p>
+  Creating clear navigation, intuitive interactions, accessible layouts,
+  and polished visual experiences that prioritize usability.
+</p>
+
+</div>
+
+<br />
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4A1334,50:7B2E5F,100:B784C8"
+  alt=""
+/>
+
+<br />
+
+<!-- WHAT I VALUE -->
+
+<div align="center">
+
+<h2>What I Value</h2>
+
+<img
+  src="https://img.shields.io/badge/Clean%20Code-4A1334?style=for-the-badge"
+  alt="Clean Code"
+/>
+<img
+  src="https://img.shields.io/badge/Responsive%20Design-5C1F46?style=for-the-badge"
+  alt="Responsive Design"
+/>
+<img
+  src="https://img.shields.io/badge/Reusable%20Components-6D2B55?style=for-the-badge"
+  alt="Reusable Components"
+/>
+
+<br /><br />
+
+<img
+  src="https://img.shields.io/badge/Consistent%20UI-7B2E5F?style=for-the-badge"
+  alt="Consistent UI"
+/>
+<img
+  src="https://img.shields.io/badge/Readable%20Structure-8E5572?style=for-the-badge"
+  alt="Readable Structure"
+/>
+<img
+  src="https://img.shields.io/badge/Reliable%20Functionality-A66C8A?style=for-the-badge"
+  alt="Reliable Functionality"
+/>
+
+</div>
+
+<br />
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4A1334,50:7B2E5F,100:B784C8"
+  alt=""
+/>
+
+<br />
+
+<!-- CURRENT FOCUS -->
+
+<div align="center">
+
+<h2>Current Focus</h2>
+
+<p>
+  Strengthening my knowledge of advanced React patterns, TypeScript,
+  frontend accessibility, testing, performance optimization,
+  and scalable application architecture.
+</p>
+
+<img
+  src="https://skillicons.dev/icons?i=react,ts,jest"
+  alt="Current Learning Focus"
+/>
+
+</div>
+
+<br />
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4A1334,50:7B2E5F,100:B784C8"
+  alt=""
+/>
+
+<br />
+
+<!-- CAREER OBJECTIVE -->
+
+<div align="center">
+
+<h2>Career Objective</h2>
+
+<p>
+  Seeking a full-time frontend or web development opportunity where I can
+  contribute to real products, collaborate with experienced developers,
+  solve meaningful problems, and continue growing as a software professional.
+</p>
+
+<a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/View%20My%20Work-B784C8?style=for-the-badge"
+    alt="View My Work"
+  />
+</a>
+<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Connect%20With%20Me-6D214F?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Connect on LinkedIn"
+  />
+</a>
+
+<br /><br />
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:4A1334,45:7B2E5F,100:B784C8"
+  alt=""
+/>
+
+</div>
