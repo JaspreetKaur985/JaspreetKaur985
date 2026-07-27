@@ -6,25 +6,21 @@
   alt="Jaspreet Kaur"
 />
 
-<br />
-
 <a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
   <img
-    src="https://img.shields.io/badge/Website-B784C8?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="Portfolio Website"
+    src="https://img.shields.io/badge/Website-B784C8?style=for-the-badge&logoColor=white"
+    alt="Website"
   />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
   <img
     src="https://img.shields.io/badge/LinkedIn-6D214F?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn Profile"
+    alt="LinkedIn"
   />
 </a>
 
-<br /><br />
+<br />
+
 
 <a href="https://git.io/typing-svg">
   <img
