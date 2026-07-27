@@ -2,14 +2,14 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:4A1334,45:7B2E5F,100:B784C8&text=Jaspreet%20Kaur&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%%20%E2%80%A2%20Modern%20Web%20Applications&descSize=18&descAlignY=61&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:4A1334,45:7B2E5F,100:B784C8&text=Jaspreet%20Kaur&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Modern%20Web%20Developer%20%E2%80%A2%20Programmer&descSize=18&descAlignY=61&animation=fadeIn"
   alt="Jaspreet Kaur"
 />
 
 <a href="https://git.io/typing-svg">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3000&pause=1200&color=B784C8&center=true&vCenter=true&width=900&height=58&lines=Developing+Responsive+Frontend+Applications;Creating+Intuitive+and+User-Focused+Interfaces;Building+Reusable+React+Components;Connecting+Interfaces+with+APIs+and+Dynamic+Data;Optimizing+Websites+for+Performance+and+Usability"
-    alt="Typing animation"
+    alt="Typing Animation"
   />
 </a>
 
@@ -17,6 +17,7 @@
 
 <table width="420" align="center">
   <tr>
+
     <td width="50%" align="left">
       <a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
         <img
@@ -34,6 +35,7 @@
         />
       </a>
     </td>
+
   </tr>
 </table>
 
@@ -44,6 +46,7 @@
 <table width="100%">
   <tr>
     <td width="62%" valign="top">
+
 About Me
 I enjoy turning ideas into practical web experiences that feel clear, responsive, and easy to use.
 
