@@ -6,38 +6,30 @@
   alt="Jaspreet Kaur"
 />
 
-<a href="https://git.io/typing-svg">
+<br />
+
+<a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3000&pause=1200&color=B784C8&center=true&vCenter=true&width=900&height=58&lines=Developing+Responsive+Frontend+Applications;Creating+Intuitive+and+User-Focused+Interfaces;Building+Reusable+React+Components;Connecting+Interfaces+with+APIs+and+Dynamic+Data;Optimizing+Websites+for+Performance+and+Usability"
-    alt="Typing Animation"
+    src="https://img.shields.io/badge/Website-B784C8?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfolio Website"
+  />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-6D214F?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn Profile"
   />
 </a>
 
 <br /><br />
 
-<table width="420" align="center">
-  <tr>
-
-    <td width="50%" align="left">
-      <a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
-        <img
-          src="https://img.shields.io/badge/Website-B784C8?style=for-the-badge&logo=googlechrome&logoColor=white"
-          alt="Portfolio Website"
-        />
-      </a>
-    </td>
-
-    <td width="50%" align="right">
-      <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
-        <img
-          src="https://img.shields.io/badge/LinkedIn-6D214F?style=for-the-badge&logo=linkedin&logoColor=white"
-          alt="LinkedIn Profile"
-        />
-      </a>
-    </td>
-
-  </tr>
-</table>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3000&pause=1200&color=B784C8&center=true&vCenter=true&width=900&height=58&lines=Developing+Responsive+Frontend+Applications;Creating+Intuitive+and+User-Focused+Interfaces;Building+Reusable+React+Components;Integrating+APIs+and+Dynamic+Data;Optimizing+Websites+for+Performance+and+Usability"
+    alt="Typing animation"
+  />
+</a>
 
 </div>
 
