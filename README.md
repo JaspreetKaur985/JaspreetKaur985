@@ -14,16 +14,13 @@ alt="Jaspreet Kaur"
 </a>
 
 <div align="center">
-
 <div align="center">
-
-### Connect With Me
 
 <a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-4A1334?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-7B2E5F?style=for-the-badge&logo=linkedin&logoColor=white"/>
