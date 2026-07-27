@@ -1,411 +1,338 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:F7D9E7,45:E9B8D5,100:C8A2C8&text=Jaspreet%20Kaur&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Web%20Application%20Developer&descSize=16&descAlignY=59&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:5B173C,45:8E5572,100:C38EC7&text=Jaspreet%20Kaur&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Web%20Application%20Developer&descSize=16&descAlignY=59&animation=fadeIn"
 width="100%"
-alt="Jaspreet Kaur — Frontend Developer"
+alt="Jaspreet Kaur"
 />
 
 <br />
 
-<p>
-  <strong>Computer Programming graduate building responsive, accessible, and user-focused web applications.</strong>
-</p>
+<a href="https://portfolio-jaspreet-985.netlify.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-5B173C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/">
+  <img src="https://img.shields.io/badge/LINKEDIN-8E5572?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/JaspreetKaur985">
+  <img src="https://img.shields.io/badge/GITHUB-C38EC7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<p>
-  <a href="https://portfolio-jaspreet-985.netlify.app/">
-    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-7F5A83?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/">
-    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-A66C8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-</p>
+<br />
+<br />
 
-<p>
-  Based in Ontario, Canada &nbsp;•&nbsp; Open to developer opportunities across Canada
-</p>
+<img src="https://img.shields.io/badge/ONTARIO%2C_CANADA-6D214F?style=flat-square" alt="Ontario, Canada" />
+<img src="https://img.shields.io/badge/OPEN_TO_WORK-A66C8A?style=flat-square" alt="Open to Work" />
+<img src="https://img.shields.io/badge/FRONTEND_FOCUSED-C38EC7?style=flat-square" alt="Frontend Focused" />
 
 </div>
 
 <br />
 
-Professional Profile
-
-I am a Computer Programming graduate from Georgian College with hands-on experience building responsive websites and interactive web applications.
-
-My work focuses on creating interfaces that are clear, reliable, and easy to use. I enjoy transforming requirements into structured layouts, reusable components, and practical application features using modern frontend technologies.
-
-I am currently pursuing opportunities where I can contribute as a Frontend Developer, React Developer, Web Developer, or Junior Software Developer while continuing to strengthen my full-stack development skills.
-
-What I Bring
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-Frontend Development
-
-Responsive and mobile-first interfaces
-
-Reusable React components
-
-Modern JavaScript functionality
-
-Semantic HTML structure
-
-Maintainable CSS organization
-
-Cross-device compatibility
-
-Accessible user interactions
-
-Clear visual hierarchy
-
-</td>
-<td width="50%" valign="top">
-
-Web Application Development
-
-API integration
-
-Firebase authentication
-
-Application state and data flow
-
-Form handling and validation
-
-Database fundamentals
-
-Error handling
-
-Deployment and documentation
-
-Frontend and backend integration
-
-</td>
-</tr>
-</table>
-
-Technology Stack
-
 <div align="center">
 
-Frontend
+PROFESSIONAL SNAPSHOT
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-7F5A83?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-8F668E?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-A66C8A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-B7789B?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-C98DAA?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Vite-9B709E?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-</p>
-
-Backend and Data
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-7F5A83?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-8F668E?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Firebase-A66C8A?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MySQL-B7789B?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/REST_APIs-C98DAA?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
-</p>
-
-Tools and Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/Git-7F5A83?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-8F668E?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-A66C8A?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Figma-B7789B?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Netlify-C98DAA?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Vercel-9B709E?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+<img src="https://img.shields.io/badge/FRONTEND_DEVELOPER-5B173C?style=for-the-badge" alt="Frontend Developer" />
+<img src="https://img.shields.io/badge/REACT_DEVELOPER-8E5572?style=for-the-badge" alt="React Developer" />
+<img src="https://img.shields.io/badge/WEB_APPLICATION_DEVELOPER-C38EC7?style=for-the-badge" alt="Web Application Developer" />
 
 </div>
 
-Engineering Approach
-
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 
-01 — Understand
+Build
 
-Clarify the user need, project goal, required features, and technical constraints.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-02 — Structure
-
-Plan the layout, component hierarchy, data flow, and development priorities.
+Responsive and user-focused interfaces
 
 </td>
-<td width="25%" align="center" valign="top">
-
-03 — Build
-
-Develop responsive interfaces and functional features with organized code.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-04 — Refine
-
-Test interactions, responsiveness, accessibility, performance, and usability.
-
-</td>
-</tr>
-</table>
-
-Development Standards
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-Maintainability
-
-I organize projects into understandable sections, use descriptive naming, and keep components focused on clear responsibilities.
-
-</td>
-<td width="33%" valign="top">
-
-Responsiveness
-
-I design for different screen sizes and verify layouts across mobile, tablet, and desktop breakpoints.
-
-</td>
-<td width="33%" valign="top">
-
-User Experience
-
-I prioritize readable content, predictable interactions, accessible controls, and consistent visual presentation.
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-Reliability
-
-I test navigation, forms, links, authentication flows, API responses, and edge cases before deployment.
-
-</td>
-<td width="33%" valign="top">
-
-Performance
-
-I consider image optimization, component structure, unnecessary rendering, and efficient asset delivery.
-
-</td>
-<td width="33%" valign="top">
-
-Documentation
-
-I create clear project documentation so technologies, features, setup, and implementation decisions are easy to understand.
-
-</td>
-</tr>
-</table>
-
-Core Competencies
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-Responsive web development
-
-Component-based user interfaces
-
-JavaScript application logic
-
-React fundamentals
-
-API consumption
-
-Authentication workflows
-
-Form validation
-
-Dynamic content rendering
-
-</td>
-<td width="50%" valign="top">
-
-Version control with Git
-
-Repository documentation
-
-Application deployment
-
-Database fundamentals
-
-Debugging and troubleshooting
-
-Interface consistency
-
-Technical problem solving
-
-Continuous improvement
-
-</td>
-</tr>
-</table>
-
-Education
-
-<table>
-<tr>
-<td width="22%" align="center" valign="middle">
-
-Georgian College
-
-Ontario, Canada
-
-</td>
-<td width="78%" valign="top">
-
-Computer Programming Diploma
-
-Academic training included:
-
-Web and application development
-
-Object-oriented programming
-
-Database systems
-
-Software development fundamentals
-
-User-interface development
-
-Application testing and debugging
-
-Technical documentation
-
-Problem solving and programming logic
-
-</td>
-</tr>
-</table>
-
-Current Development Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-Strengthening
-
-Advanced React patterns
-
-Modern JavaScript
-
-Component architecture
-
-API and database integration
-
-Backend application development
-
-</td>
-<td width="50%" valign="top">
-
-Expanding
-
-TypeScript
-
-Web accessibility
-
-Automated testing
-
-Performance optimization
-
-Scalable application structure
-
-</td>
-</tr>
-</table>
-
-Professional Value
-
-I aim to contribute more than completed screens. I bring a thoughtful development process, attention to detail, a willingness to learn, and a strong commitment to delivering dependable work.
-
-My goal is to join a collaborative team where I can:
-
-Build useful and polished web experiences
-
-Learn from experienced developers
-
-Contribute to real product requirements
-
-Improve code quality through feedback
-
-Grow into broader software engineering responsibilities
-
-Opportunities of Interest
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center"><strong>Frontend Developer</strong></td>
-<td align="center"><strong>React Developer</strong></td>
-<td align="center"><strong>Web Developer</strong></td>
-</tr>
-<tr>
-<td align="center"><strong>Junior Software Developer</strong></td>
-<td align="center"><strong>Web Application Developer</strong></td>
-<td align="center"><strong>UI Developer</strong></td>
-</tr>
-</table>
-
-</div>
-
-I am open to full-time, junior, and early-career developer opportunities across Canada, including on-site, hybrid, and remote environments.
-
-Beyond the Code
-
-I value professionalism, clear communication, accountability, and steady improvement.
-
-When working on a project, I focus on:
-
-Understanding expectations before implementation
-
-Communicating blockers clearly
-
-Accepting feedback constructively
-
-Keeping work organized
-
-Following through on commitments
-
-Learning unfamiliar tools when required
-
-Improving both technical quality and user experience
+<td width="33%" align="center" valign="top">
 
 Connect
 
+APIs, authentication, and application data
+
+</td>
+<td width="33%" align="center" valign="top">
+
+Improve
+
+Clean structure, usability, and performance
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<p>
-  Explore my work through my portfolio and pinned repositories, or connect with me on LinkedIn.
-</p>
+PROFESSIONAL HIGHLIGHTS
 
-<p>
-  <a href="https://portfolio-jaspreet-985.netlify.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-7F5A83?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/">
-    <img src="https://img.shields.io/badge/LINKEDIN-A66C8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/JaspreetKaur985">
-    <img src="https://img.shields.io/badge/GITHUB-C98DAA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/COMPUTER_PROGRAMMING_GRADUATE-5B173C?style=for-the-badge" alt="Computer Programming Graduate" />
+<img src="https://img.shields.io/badge/FOUR--TIME_DEAN'S_LIST-8E5572?style=for-the-badge" alt="Four-Time Dean's List" />
+<img src="https://img.shields.io/badge/PORTFOLIO_READY-C38EC7?style=for-the-badge" alt="Portfolio Ready" />
 
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+Education
+
+Georgian College
+
+</td>
+<td width="33%" align="center" valign="top">
+
+Recognition
+
+Four-time Dean's List
+
+</td>
+<td width="33%" align="center" valign="top">
+
+Direction
+
+Frontend and React development
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+TECHNOLOGY STACK
+
+Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite&theme=dark" alt="Frontend technologies" />
+
+<br />
+<br />
+
+Backend and Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql&theme=dark" alt="Backend and database technologies" />
+
+<br />
+<br />
+
+Tools and Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel&theme=dark" alt="Tools and deployment platforms" />
+
+</div>
+
+<div align="center">
+
+CORE STRENGTHS
+
+<img src="https://img.shields.io/badge/RESPONSIVE_DESIGN-5B173C?style=for-the-badge" alt="Responsive Design" />
+<img src="https://img.shields.io/badge/CLEAN_CODE-8E5572?style=for-the-badge" alt="Clean Code" />
+<img src="https://img.shields.io/badge/API_INTEGRATION-C38EC7?style=for-the-badge" alt="API Integration" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/REACT_COMPONENTS-6D214F?style=for-the-badge" alt="React Components" />
+<img src="https://img.shields.io/badge/ACCESSIBLE_UI-A66C8A?style=for-the-badge" alt="Accessible UI" />
+<img src="https://img.shields.io/badge/GIT_WORKFLOW-B76E79?style=for-the-badge" alt="Git Workflow" />
+
+</div>
+
+<div align="center">
+
+HOW I WORK
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+Plan
+
+Understand requirements and define the interface structure.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+Build
+
+Create responsive components and working features.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+Refine
+
+Test usability, responsiveness, and code quality.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+DEVELOPMENT PRINCIPLES
+
+<img src="https://img.shields.io/badge/USER_FIRST-5B173C?style=for-the-badge" alt="User First" />
+<img src="https://img.shields.io/badge/MAINTAINABLE_CODE-8E5572?style=for-the-badge" alt="Maintainable Code" />
+<img src="https://img.shields.io/badge/CONSISTENT_UI-C38EC7?style=for-the-badge" alt="Consistent UI" />
+
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+Clear interfaces
+
+</td>
+<td width="33%" align="center" valign="top">
+
+Reusable structure
+
+</td>
+<td width="33%" align="center" valign="top">
+
+Dependable functionality
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+EDUCATION
+
+<img src="https://img.shields.io/badge/GEORGIAN_COLLEGE-5B173C?style=for-the-badge" alt="Georgian College" />
+<img src="https://img.shields.io/badge/COMPUTER_PROGRAMMING-8E5572?style=for-the-badge" alt="Computer Programming" />
+<img src="https://img.shields.io/badge/FOUR--TIME_DEAN'S_LIST-C38EC7?style=for-the-badge" alt="Four-Time Dean's List" />
+
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+Program
+
+Computer Programming Diploma
+
+</td>
+<td width="33%" align="center" valign="top">
+
+College
+
+Georgian College
+
+</td>
+<td width="33%" align="center" valign="top">
+
+Academic Record
+
+Four-time Dean's List
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+CURRENTLY EXPANDING
+
+<img src="https://img.shields.io/badge/TYPESCRIPT-5B173C?style=for-the-badge" alt="TypeScript" />
+<img src="https://img.shields.io/badge/ADVANCED_REACT-8E5572?style=for-the-badge" alt="Advanced React" />
+<img src="https://img.shields.io/badge/WEB_PERFORMANCE-C38EC7?style=for-the-badge" alt="Web Performance" />
+
+</div>
+
+<div align="center">
+
+OPEN TO
+
+<img src="https://img.shields.io/badge/FRONTEND_DEVELOPER-5B173C?style=for-the-badge" alt="Frontend Developer" />
+<img src="https://img.shields.io/badge/REACT_DEVELOPER-8E5572?style=for-the-badge" alt="React Developer" />
+<img src="https://img.shields.io/badge/WEB_DEVELOPER-C38EC7?style=for-the-badge" alt="Web Developer" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/JUNIOR_SOFTWARE_DEVELOPER-6D214F?style=for-the-badge" alt="Junior Software Developer" />
+<img src="https://img.shields.io/badge/UI_DEVELOPER-A66C8A?style=for-the-badge" alt="UI Developer" />
+<img src="https://img.shields.io/badge/WEB_APPLICATION_DEVELOPER-B76E79?style=for-the-badge" alt="Web Application Developer" />
+
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+Work Type
+
+Full-time opportunities
+
+</td>
+<td width="33%" align="center" valign="top">
+
+Location
+
+Across Canada
+
+</td>
+<td width="33%" align="center" valign="top">
+
+Environment
+
+On-site, hybrid, or remote
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+RECRUITER QUICK VIEW
+
+<img src="https://img.shields.io/badge/RESPONSIVE_WEB_APPS-5B173C?style=for-the-badge" alt="Responsive Web Apps" />
+<img src="https://img.shields.io/badge/REACT_AND_JAVASCRIPT-8E5572?style=for-the-badge" alt="React and JavaScript" />
+<img src="https://img.shields.io/badge/API_AND_FIREBASE-C38EC7?style=for-the-badge" alt="API and Firebase" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/GIT_AND_GITHUB-6D214F?style=for-the-badge" alt="Git and GitHub" />
+<img src="https://img.shields.io/badge/DEPLOYED_PROJECTS-A66C8A?style=for-the-badge" alt="Deployed Projects" />
+<img src="https://img.shields.io/badge/READY_TO_GROW-B76E79?style=for-the-badge" alt="Ready to Grow" />
+
+</div>
+
+<div align="center">
+
+LET'S CONNECT
+
+<a href="https://portfolio-jaspreet-985.netlify.app/">
+  <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-5B173C?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-8E5572?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="https://github.com/JaspreetKaur985">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-C38EC7?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+</a>
+
+<br />
 <br />
 
 <strong>Open to opportunities where I can contribute, learn, and grow as a developer.</strong>
@@ -414,7 +341,7 @@ Connect
 <br />
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:C8A2C8,50:E9B8D5,100:F7D9E7"
+src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:C38EC7,50:8E5572,100:5B173C"
 width="100%"
 alt=""
 />
