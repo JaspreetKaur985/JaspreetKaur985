@@ -1,28 +1,51 @@
+
+
+<div align="center">
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4A1334,45:7B2E5F,100:B784C8&text=Jaspreet%20Kaur&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20•%20React%20Developer%20•%20Modern%20Web%20Applications&descSize=18&descAlignY=61&animation=fadeIn"
+/>
+
+<br>
+
+<a href="https://git.io/typing-svg">
+<img
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3400&pause=1400&color=B784C8&center=true&vCenter=true&width=900&height=60&lines=Creating+Modern+Interfaces;Building+Exceptional+User+Experiences;Always+Learning+%E2%80%A2+Always+Improving"
+alt="Typing SVG"/>
+</a>
+
+<br><br>
+
 <table width="100%">
 <tr>
 
-<td width="22%" align="left">
+<td width="20%" align="left" valign="middle">
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-4A1334?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
+<img
+src="https://img.shields.io/badge/Portfolio-4A1334?style=for-the-badge&logo=vercel&logoColor=white"
+/>
 </a>
 
 </td>
 
-<td width="56%" align="center">
+<td width="60%" align="center" valign="middle">
 
-<h3>Building applications people enjoy using.</h3>
+<h3>Crafting responsive, intuitive, and high-quality web experiences.</h3>
 
 <p>
-Passionate about creating responsive, accessible, and modern web applications with clean architecture, intuitive user experiences, and continuous learning.
+Computer Programming graduate focused on building modern web applications with clean architecture, reusable components, and user-centered design.
 </p>
 
 </td>
 
-<td width="22%" align="right">
+<td width="20%" align="right" valign="middle">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-7B2E5F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
+<img
+src="https://img.shields.io/badge/LinkedIn-7B2E5F?style=for-the-badge&logo=linkedin&logoColor=white"
+/>
 </a>
 
 </td>
@@ -30,9 +53,8 @@ Passionate about creating responsive, accessible, and modern web applications wi
 </tr>
 </table>
 
-<br />
+</div>
 
-<table>
 <tr>
 <td width="58%" valign="top">
 
