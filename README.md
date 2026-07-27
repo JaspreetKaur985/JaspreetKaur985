@@ -20,8 +20,6 @@
 </a>
 
 <br />
-
-
 <a href="https://git.io/typing-svg">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3000&pause=1200&color=B784C8&center=true&vCenter=true&width=900&height=58&lines=Developing+Responsive+Frontend+Applications;Creating+Intuitive+and+User-Focused+Interfaces;Building+Reusable+React+Components;Integrating+APIs+and+Dynamic+Data;Optimizing+Websites+for+Performance+and+Usability"
@@ -30,30 +28,47 @@
 </a>
 
 </div>
-
-<br />
-
-About Me
-I enjoy turning ideas into practical web experiences that feel clear, responsive, and easy to use.
-
-My focus is on frontend development, reusable React components, API-driven interfaces, and polished layouts that work across screen sizes.
-
-</td> <td width="38%" valign="top">
-
-Profile
-Ontario, Canada
-
-Georgian College Graduate
-
-Four-Time Dean's Honour List
-
-Open to Full-Time Roles
-
-</td> </tr> </table>
-
-<br />
-
 <div align="center">
+
+## About Me
+
+<p>
+  I enjoy turning ideas into practical web experiences that feel
+  <strong>clear, responsive, and easy to use</strong>.
+</p>
+
+<p>
+  My focus is on <strong>frontend development</strong>,
+  <strong>reusable React components</strong>,
+  <strong>API-driven interfaces</strong>, and polished layouts that work
+  smoothly across different screen sizes.
+</p>
+
+<br />
+
+## Profile
+
+<img
+  src="https://img.shields.io/badge/Location-Ontario%2C%20Canada-B784C8?style=flat-square"
+  alt="Ontario, Canada"
+/>
+<img
+  src="https://img.shields.io/badge/Education-Georgian%20College-7B2E5F?style=flat-square"
+  alt="Georgian College Graduate"
+/>
+<img
+  src="https://img.shields.io/badge/Achievement-4×%20Dean's%20Honour%20List-9A5A8A?style=flat-square"
+  alt="Four-Time Dean's Honour List"
+/>
+<img
+  src="https://img.shields.io/badge/Status-Open%20to%20Full--Time%20Roles-6D214F?style=flat-square"
+  alt="Open to Full-Time Roles"
+/>
+
+</div>
+
+<br />
+
 
 Technology Stack
 <img src="https://img.shields.io/badge/HTML5-4A1334?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-5C1F46?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-6D2B55?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-7B2E5F?style=for-the-badge&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Bootstrap-8E5572?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Vite-A66C8A?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
