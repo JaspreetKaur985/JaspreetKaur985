@@ -8,12 +8,10 @@ alt="Jaspreet Kaur"
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=21&pause=1100&color=8E5572&center=true&vCenter=true&width=780&lines=Building+responsive+web+experiences;Creating+modern+interfaces+with+React;Turning+ideas+into+clean+and+practical+applications"
-    alt="Animated introduction"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3500&pause=1200&color=B784C8&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=60&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Modern+Web;Building+Clean+%26+Responsive+Experiences"
+    alt="Typing SVG"
   />
 </a>
-
-<br />
 
 <a href="https://portfolio-jaspreet-985.netlify.app/">
   <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-4A1334?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
