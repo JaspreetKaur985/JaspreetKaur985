@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:jaspreetkaur29783@gmail.com">
-  <img src="https://img.shields.io/badge/Email-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
 <a href="https://github.com/JaspreetKaur985">
   <img src="https://img.shields.io/badge/GitHub-E879F9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -34,34 +30,42 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:FDF2F8,50:FCE7F3,100:F3E8FF&text=About%20Me&fontSize=26&fontColor=BE185D&animation=fadeIn" alt="About Me"/>
 
-</div>
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Professional Background
 
-* Computer Programming graduate from Georgian College
-* Frontend developer based in Canada
-* Focused on responsive and modern web development
-* Interested in frontend, web, and junior software roles
-* Open to opportunities across Canada
+Computer Programming graduate from Georgian College
+
+Frontend developer based in Canada
+
+Focused on responsive and modern web development
+
+Interested in frontend, web, and junior software roles
+
+Open to opportunities across Canada
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Development Focus
 
-* Responsive and mobile-first interfaces
-* Clean and user-focused layouts
-* JavaScript-based interactions
-* Reusable React components
-* Accessible and maintainable web experiences
+Responsive and mobile-first interfaces
+
+Clean and user-focused layouts
+
+JavaScript-based interactions
+
+Reusable React components
+
+Accessible and maintainable web experiences
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -119,77 +123,95 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:FDF2F8,50:FCE7F3,100:F3E8FF&text=Core%20Strengths&fontSize=26&fontColor=BE185D&animation=fadeIn" alt="Core Strengths"/>
 
-</div>
-
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
 
 ### Responsive Development
 
-* Mobile-first layouts
-* Flexible page structures
-* Cross-device compatibility
-* Consistent user experience
+Mobile-first layouts
+
+Flexible page structures
+
+Cross-device compatibility
+
+Consistent user experiences
 
 </td>
 <td width="33%" valign="top" align="center">
 
 ### Interface Development
 
-* Modern visual layouts
-* Clear content hierarchy
-* Practical interactions
-* Thoughtful spacing
+Modern visual layouts
+
+Clear content hierarchy
+
+Practical interactions
+
+Thoughtful spacing
 
 </td>
 <td width="33%" valign="top" align="center">
 
 ### Code Quality
 
-* Organized project structure
-* Reusable components
-* Readable code
-* Maintainable solutions
+Organized project structure
+
+Reusable components
+
+Readable code
+
+Maintainable solutions
 
 </td>
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
 
 ### JavaScript
 
-* DOM manipulation
-* Event handling
-* API integration
-* Interactive functionality
+DOM manipulation
+
+Event handling
+
+API integration
+
+Interactive functionality
 
 </td>
 <td width="33%" valign="top" align="center">
 
 ### React
 
-* Component-based interfaces
-* State management
-* Reusable UI sections
-* Application organization
+Component-based interfaces
+
+State management
+
+Reusable interface sections
+
+Application organization
 
 </td>
 <td width="33%" valign="top" align="center">
 
 ### Project Delivery
 
-* Git and GitHub workflows
-* Responsive testing
-* Deployment
-* Project documentation
+Git and GitHub workflows
+
+Responsive testing
+
+Application deployment
+
+Project documentation
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -197,57 +219,67 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:F3E8FF,50:FCE7F3,100:FDF2F8&text=Development%20Approach&fontSize=26&fontColor=9333EA&animation=fadeIn" alt="Development Approach"/>
 
-</div>
-
-<table>
+<table width="100%">
 <tr>
-<td width="20%" align="center" valign="top">
+<td width="20%" valign="top" align="center">
 
 ### Understand
 
-* Identify the purpose
-* Review user needs
-* Define the expected result
+Identify the purpose
+
+Review user needs
+
+Define the expected result
 
 </td>
-<td width="20%" align="center" valign="top">
+<td width="20%" valign="top" align="center">
 
 ### Plan
 
-* Organize the layout
-* Structure the content
-* Select the right tools
+Organize the layout
+
+Structure the content
+
+Select the right tools
 
 </td>
-<td width="20%" align="center" valign="top">
+<td width="20%" valign="top" align="center">
 
 ### Build
 
-* Develop the interface
-* Add functionality
-* Keep code organized
+Develop the interface
+
+Add functionality
+
+Keep code organized
 
 </td>
-<td width="20%" align="center" valign="top">
+<td width="20%" valign="top" align="center">
 
 ### Test
 
-* Review responsiveness
-* Check interactions
-* Verify links and behaviour
+Review responsiveness
+
+Check interactions
+
+Verify links and behaviour
 
 </td>
-<td width="20%" align="center" valign="top">
+<td width="20%" valign="top" align="center">
 
 ### Refine
 
-* Improve usability
-* Simplify the code
-* Polish the presentation
+Improve usability
+
+Simplify the code
+
+Polish the presentation
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -255,34 +287,42 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:FDF2F8,50:FCE7F3,100:F3E8FF&text=Development%20Principles&fontSize=26&fontColor=BE185D&animation=fadeIn" alt="Development Principles"/>
 
-</div>
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Design Principles
 
-* Clear visual hierarchy
-* Consistent typography and spacing
-* Responsive layouts
-* Accessible interactions
-* User-focused design decisions
+Clear visual hierarchy
+
+Consistent typography and spacing
+
+Responsive layouts
+
+Accessible interactions
+
+User-focused design decisions
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Engineering Principles
 
-* Readable and organized code
-* Reusable structures
-* Practical solutions
-* Careful testing
-* Continuous improvement
+Readable and organized code
+
+Reusable structures
+
+Practical solutions
+
+Careful testing
+
+Continuous improvement
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -294,34 +334,42 @@
 
 **Georgian College**
 
-</div>
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Development Studies
 
-* Web development
-* Object-oriented programming
-* Software development
-* User-interface development
-* Application testing
+Web development
+
+Object-oriented programming
+
+Software development
+
+User-interface development
+
+Application testing
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Technical Studies
 
-* Database systems
-* Programming fundamentals
-* Problem-solving
-* Software design practices
-* Technical documentation
+Database systems
+
+Programming fundamentals
+
+Problem-solving
+
+Software design practices
+
+Technical documentation
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -329,36 +377,46 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:FDF2F8,50:FCE7F3,100:F3E8FF&text=Professional%20Direction&fontSize=26&fontColor=BE185D&animation=fadeIn" alt="Professional Direction"/>
 
-</div>
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Target Opportunities
 
-* Frontend Developer
-* Junior Frontend Developer
-* Web Developer
-* Junior Web Developer
-* Junior Software Developer
-* UI Developer
+Frontend Developer
+
+Junior Frontend Developer
+
+Web Developer
+
+Junior Web Developer
+
+Junior Software Developer
+
+UI Developer
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Continued Development
 
-* Advanced React development
-* Modern JavaScript
-* TypeScript fundamentals
-* Web accessibility
-* Performance optimization
-* Component architecture
+Advanced React development
+
+Modern JavaScript
+
+TypeScript fundamentals
+
+Web accessibility
+
+Performance optimization
+
+Component architecture
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -379,15 +437,17 @@ I am open to opportunities where I can contribute, continue learning, and grow a
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-
-<br><br>
-
-<a href="mailto:jaspreetkaur29783@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
-</a>
 &nbsp;
 <a href="https://github.com/JaspreetKaur985">
   <img src="https://img.shields.io/badge/View_My_GitHub-E879F9?style=for-the-badge&logo=github&logoColor=white" alt="View my GitHub"/>
+</a>
+
+<br><br>
+
+### Email
+
+<a href="mailto:jaspreetkaur29783@gmail.com">
+  <img src="https://img.shields.io/badge/jaspreetkaur29783%40gmail.com-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jaspreet Kaur"/>
 </a>
 
 <br><br>
