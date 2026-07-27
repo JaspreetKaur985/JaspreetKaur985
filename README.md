@@ -1,52 +1,34 @@
+<table width="100%">
+<tr>
 
-<div align="center">
+<td width="22%" align="left">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4A1334,50:7B2E5F,100:B784C8&text=Jaspreet%20Kaur&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Web%20Developer&descSize=17&descAlignY=60&animation=fadeIn"
-  alt="Jaspreet Kaur"
-/>
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=3200&pause=1400&color=B784C8&center=true&vCenter=true&width=920&height=60&lines=Building+Thoughtful+Digital+Experiences;Transforming+Ideas+into+Interactive+Interfaces;Always+Learning+%E2%80%A2+Always+Building"
-    alt="Animated introduction"
-  />
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-4A1334?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br />
+</td>
 
-<table>
-  <tr>
-    <td align="center">
-      <h3>Building user-focused digital experiences</h3>
-      <p>
-        Creating responsive and modern web applications with clean code,
-        thoughtful design, and attention to usability.
-      </p>
-    </td>
-  </tr>
+<td width="56%" align="center">
+
+<h3>Building applications people enjoy using.</h3>
+
+<p>
+Passionate about creating responsive, accessible, and modern web applications with clean architecture, intuitive user experiences, and continuous learning.
+</p>
+
+</td>
+
+<td width="22%" align="right">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-7B2E5F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
 </table>
-
-<br />
-
-<a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Portfolio-4A1334?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfolio"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-7B2E5F?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-</div>
 
 <br />
 
