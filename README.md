@@ -13,11 +13,16 @@ alt="Jaspreet Kaur"
   />
 </a>
 
-<a href="https://portfolio-jaspreet-985.netlify.app/">
-  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-4A1334?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
+<div align="center">
+
+<a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-4A1334?style=for-the-badge" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/">
-  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-7B2E5F?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-7B2E5F?style=for-the-badge" alt="LinkedIn"/>
 </a>
 
 </div>
