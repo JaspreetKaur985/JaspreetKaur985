@@ -2,16 +2,14 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4B1535,45:7A315E,100:B786C7&text=Jaspreet%20Kaur&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Web%20Application%20Developer&descSize=16&descAlignY=59&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:4B1535,45:7A315E,100:B786C7&text=Jaspreet%20Kaur&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Web%20Application%20Developer&descSize=16&descAlignY=59&animation=fadeIn"
 alt="Jaspreet Kaur"
 />
 
-<br />
-
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1100&color=8E5572&center=true&vCenter=true&width=760&lines=Building+clean+and+responsive+web+experiences;Creating+modern+interfaces+with+React+and+JavaScript;Turning+ideas+into+practical+web+applications"
-    alt="Animated developer introduction"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1100&color=8E5572&center=true&vCenter=true&width=760&lines=Building+responsive+web+experiences;Creating+clean+React+interfaces;Turning+ideas+into+working+applications"
+    alt="Animated introduction"
   />
 </a>
 
@@ -23,9 +21,6 @@ alt="Jaspreet Kaur"
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/">
   <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-7A315E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-<a href="https://github.com/JaspreetKaur985">
-  <img src="https://img.shields.io/badge/EXPLORE_GITHUB-B786C7?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" />
-</a>
 
 </div>
 
@@ -33,24 +28,22 @@ alt="Jaspreet Kaur"
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="56%" valign="top">
 
 About Me
 
-I am a Computer Programming graduate from Georgian College focused on frontend development, responsive interfaces, and modern web application experiences.
+Computer Programming graduate focused on frontend and React development.
 
-I enjoy combining visual design with practical functionality and turning ideas into polished, usable products.
+Building responsive, practical, and polished web applications.
 
 </td>
-<td width="42%" valign="top">
+<td width="44%" valign="top">
 
-Quick Profile
+Quick View
 
-RoleFrontend and React Developer
+Ontario, Canada
 
-LocationOntario, Canada
-
-StatusOpen to full-time opportunities
+Open to full-time developer opportunities
 
 </td>
 </tr>
@@ -58,24 +51,22 @@ StatusOpen to full-time opportunities
 
 <table>
 <tr>
-<td width="42%" valign="top">
+<td width="44%" valign="top">
 
 Academic Highlights
 
-Computer Programming DiplomaGeorgian College
+Georgian College
 
-Four-Time Dean's ListConsistent academic achievement
-
-Applied LearningWeb, software, and database development
+Four-Time Dean's List
 
 </td>
-<td width="58%" valign="top">
+<td width="56%" valign="top">
 
-What I Bring
+Professional Focus
 
-I bring a strong combination of technical foundations, design awareness, and attention to detail.
+Frontend Development
 
-My approach is centered on writing organized code, creating clear interfaces, and improving every project through testing and refinement.
+React and Web Applications
 
 </td>
 </tr>
@@ -112,7 +103,7 @@ Tools and Deployment
 
 <img src="https://img.shields.io/badge/Git-4B1535?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-6D214F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-8E5572?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+<img src="https://img.shields.io/badge/VS_Code-8E5572?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Figma-A66C8A?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/Netlify-B76E79?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 <img src="https://img.shields.io/badge/Vercel-C38EC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -123,24 +114,20 @@ Tools and Deployment
 <tr>
 <td width="50%" valign="top">
 
-Frontend Focus
+Frontend Strengths
 
-Responsive InterfacesLayouts designed for mobile, tablet, and desktop.
+Responsive layouts and reusable components
 
-Reusable ComponentsStructured UI elements that are easier to maintain.
-
-Clear User ExperienceReadable content, consistent spacing, and intuitive interactions.
+Clear interfaces built for mobile, tablet, and desktop.
 
 </td>
 <td width="50%" valign="top">
 
-Application Focus
+Application Skills
 
-API IntegrationConnecting interfaces with live data and services.
+APIs, authentication, and dynamic features
 
-AuthenticationWorking with Firebase-based login and access flows.
-
-Functional FeaturesForms, validation, navigation, and dynamic content.
+Connecting user interfaces with real application functionality.
 
 </td>
 </tr>
@@ -148,24 +135,22 @@ Functional FeaturesForms, validation, navigation, and dynamic content.
 
 <table>
 <tr>
-<td width="38%" valign="top">
+<td width="42%" valign="top">
 
-My Process
+How I Work
 
-PlanUnderstand the goal and structure the work.
+Plan clearly
 
-BuildCreate the interface and core functionality.
-
-RefineTest, improve, and prepare for deployment.
+Build carefully
 
 </td>
-<td width="62%" valign="top">
+<td width="58%" valign="top">
 
 Development Style
 
-I prefer clean layouts, simple logic, and organized project structures.
+Clean structure and simple logic
 
-I focus on creating work that is easy to understand, easy to maintain, and strong enough to present to both users and technical teams.
+Code that is easier to understand, maintain, and improve.
 
 </td>
 </tr>
@@ -175,31 +160,13 @@ I focus on creating work that is easy to understand, easy to maintain, and stron
 <tr>
 <td width="58%" valign="top">
 
-Professional Strengths
-
-Problem SolvingBreaking complex tasks into manageable steps.
-
-Attention to DetailReviewing spacing, behavior, responsiveness, and consistency.
-
-Continuous LearningImproving technical skills through practical development work.
-
-</td>
-<td width="42%" valign="top">
-
 Current Focus
 
-Advanced React
+Advanced React and TypeScript
 
-TypeScript
-
-Web Performance
+Improving application structure, performance, and scalability.
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="42%" valign="top">
 
 Open To
@@ -207,15 +174,6 @@ Open To
 Frontend Developer
 
 React Developer
-
-Web Application Developer
-
-</td>
-<td width="58%" valign="top">
-
-Career Direction
-
-I am looking for a team where I can contribute to real product work, learn from experienced developers, and continue growing into broader software engineering responsibilities.
 
 </td>
 </tr>
@@ -225,9 +183,9 @@ I am looking for a team where I can contribute to real product work, learn from 
 
 Let's Connect
 
-<p>
-Explore my work, review my repositories, or connect with me professionally.
-</p>
+Explore my work or connect with me professionally.
+
+<br />
 
 <a href="https://portfolio-jaspreet-985.netlify.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-4B1535?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -235,14 +193,6 @@ Explore my work, review my repositories, or connect with me professionally.
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/">
   <img src="https://img.shields.io/badge/LINKEDIN-7A315E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/JaspreetKaur985">
-  <img src="https://img.shields.io/badge/GITHUB-B786C7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br />
-<br />
-
-<strong>Open to opportunities where I can contribute, learn, and grow.</strong>
 
 <br />
 <br />
