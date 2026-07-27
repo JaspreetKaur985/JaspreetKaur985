@@ -11,13 +11,6 @@
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=3200&pause=1200&color=B784C8&center=true&vCenter=true&width=820&height=52&lines=Creating+Modern+Interfaces;Building+Responsive+Applications;Improving+Through+Every+Project"
     alt="Typing animation"
   />
-</a>
-
-<br /><br />
-
-<h2>Building modern web experiences.</h2>
-
-<br />
 
 <a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
   <img
