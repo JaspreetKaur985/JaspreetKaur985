@@ -1,252 +1,298 @@
-
-
 <div align="center">
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4A1334,45:7B2E5F,100:B784C8&text=Jaspreet%20Kaur&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20•%20React%20Developer%20•%20Modern%20Web%20Applications&descSize=18&descAlignY=61&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4A1334,45:7B2E5F,100:B784C8&text=Jaspreet%20Kaur&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Modern%20Web%20Applications&descSize=18&descAlignY=61&animation=fadeIn"
+alt="Jaspreet Kaur"
 />
 
-<br>
-
 <a href="https://git.io/typing-svg">
-<img
-src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3400&pause=1400&color=B784C8&center=true&vCenter=true&width=900&height=60&lines=Creating+Modern+Interfaces;Building+Exceptional+User+Experiences;Always+Learning+%E2%80%A2+Always+Improving"
-alt="Typing SVG"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3400&pause=1400&color=B784C8&center=true&vCenter=true&width=900&height=60&lines=Creating+Modern+Interfaces;Solving+Real+Problems;Growing+Through+Every+Project"
+    alt="Animated introduction"
+  />
 </a>
 
-<br><br>
+<br />
 
 <table width="100%">
 <tr>
-
 <td width="20%" align="left" valign="middle">
 
 <a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
-<img
-src="https://img.shields.io/badge/Portfolio-4A1334?style=for-the-badge&logo=vercel&logoColor=white"
-/>
+  <img
+    src="https://img.shields.io/badge/Portfolio-4A1334?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
 
 </td>
-
 <td width="60%" align="center" valign="middle">
 
-<h3>Crafting responsive, intuitive, and high-quality web experiences.</h3>
+<h3>Turning ideas into responsive and intuitive web applications.</h3>
 
 <p>
-Computer Programming graduate focused on building modern web applications with clean architecture, reusable components, and user-centered design.
+Computer Programming graduate focused on clean interfaces,
+reusable components, and dependable user experiences.
 </p>
 
 </td>
-
 <td width="20%" align="right" valign="middle">
 
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
-<img
-src="https://img.shields.io/badge/LinkedIn-7B2E5F?style=for-the-badge&logo=linkedin&logoColor=white"
-/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-7B2E5F?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 </td>
-
 </tr>
 </table>
 
 </div>
 
+<br />
+
+<h2 align="center">About</h2>
+
+<table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-About Me
+Frontend development shaped by clarity
 
-Frontend developer with a practical approach
+I build responsive web applications with React, JavaScript, HTML, and CSS. My work centres on purposeful layouts, reusable components, intuitive interactions, and interfaces that stay consistent across devices.
 
-I build responsive web applications with React, JavaScript, HTML, and CSS, focusing on clean interfaces, clear structure, and reliable user experiences.
+I enjoy taking an idea from an early concept to a polished experience by combining technical problem solving with attention to design and usability.
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-At a Glance
+Profile
 
 Ontario, Canada
 
-Computer Programming GraduateFour-Time Dean's Honour ListOpen to Full-Time Opportunities
+Computer Programming Graduate
+
+Four-Time Dean's Honour List Recipient
+
+Open to Full-Time Opportunities
 
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="42%" valign="top">
+<br />
 
-Education
+<h2 align="center">Technology Stack</h2>
 
-Computer Programming Diploma
+<p align="center">
+Tools and technologies I use to design, build, test, and deploy modern web applications.
+</p>
 
-Georgian College graduate with experience in web development, application programming, databases, testing, and software design.
+<br />
 
-</td>
-<td width="58%" valign="top">
-
-What I Bring
-
-Technical skill with design awareness
-
-I combine frontend development, problem solving, and attention to detail to create applications that are clear, functional, and easy to use.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-Technology Stack
-
-</div>
-
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=react" width="42" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react" width="52" alt="Frontend" />
 
 Frontend
 
-<img src="https://img.shields.io/badge/HTML5-4A1334?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<br />
-<img src="https://img.shields.io/badge/CSS3-6D214F?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
-<br />
-<img src="https://img.shields.io/badge/JavaScript-8E5572?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-<br />
-<img src="https://img.shields.io/badge/React-A66C8A?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-<br />
-<img src="https://img.shields.io/badge/Bootstrap-B76E79?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<br />
-<img src="https://img.shields.io/badge/Vite-B784C8?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite&perline=3" alt="Frontend technologies" />
+
+<br /><br />
+
+HTML5 · CSS3 · JavaScriptReact · Bootstrap · Vite
 
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="52" alt="Backend" />
 
 Backend & Data
 
-<img src="https://img.shields.io/badge/Node.js-4A1334?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<br />
-<img src="https://img.shields.io/badge/Express.js-6D214F?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<br />
-<img src="https://img.shields.io/badge/Firebase-8E5572?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-<br />
-<img src="https://img.shields.io/badge/MySQL-A66C8A?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<br />
-<img src="https://img.shields.io/badge/REST_APIs-B784C8?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,postman&perline=3" alt="Backend technologies" />
+
+<br /><br />
+
+Node.js · Express.jsFirebase · MySQL · REST APIs
 
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=github" width="42" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=github" width="52" alt="Tools" />
 
 Tools & Deployment
 
-<img src="https://img.shields.io/badge/Git-4A1334?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<br />
-<img src="https://img.shields.io/badge/GitHub-6D214F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<br />
-<img src="https://img.shields.io/badge/VS_Code-8E5572?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<br />
-<img src="https://img.shields.io/badge/Figma-A66C8A?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<br />
-<img src="https://img.shields.io/badge/Netlify-B76E79?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-<br />
-<img src="https://img.shields.io/badge/Vercel-B784C8?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel&perline=3" alt="Development tools" />
+
+<br /><br />
+
+Git · GitHub · VS CodeFigma · Netlify · Vercel
 
 </td>
 </tr>
 </table>
 
-<table>
+<br />
+
+<h2 align="center">Core Expertise</h2>
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-What I Build
+Responsive Interfaces
 
-Responsive and interactive interfaces
-
-I create layouts that work across screen sizes and connect them to forms, APIs, authentication, and dynamic content.
+Creating layouts that remain clear, balanced, and functional across mobile, tablet, and desktop screens.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-How I Work
+Component Architecture
 
-Clear structure from start to finish
+Building reusable React components that improve consistency, maintainability, and development speed.
 
-I plan the layout, build reusable components, test functionality, and refine the final experience before deployment.
+</td>
+<td width="33%" valign="top">
+
+Application Integration
+
+Connecting interfaces with APIs, Firebase authentication, forms, validation, and dynamic data.
 
 </td>
 </tr>
 </table>
 
-<table>
+<br />
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-Core Strengths
+Visual Consistency
 
-Practical frontend development
-
-Responsive DesignReact ComponentsAPI Integration
+Maintaining a cohesive design language through spacing, typography, hierarchy, and reusable interface patterns.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-Development Standards
+Problem Solving
 
-Quality that supports long-term growth
+Breaking larger application requirements into clear, manageable steps and practical technical solutions.
 
-Readable CodeConsistent UIMaintainable Structure
+</td>
+<td width="33%" valign="top">
+
+Deployment Readiness
+
+Testing key functionality, refining the final experience, and preparing applications for reliable deployment.
 
 </td>
 </tr>
 </table>
 
-<table>
+<br />
+
+<h2 align="center">Development Approach</h2>
+
+<table width="100%">
 <tr>
-<td width="42%" valign="top">
+<td width="50%" valign="top">
 
-Current Focus
+Build with intention
 
-Expanding beyond the fundamentals
+I begin by understanding the user flow, the content structure, and the purpose of each interface before writing code.
 
-Advanced ReactTypeScriptWeb Performance
+This helps me create applications that feel organised instead of assembled.
 
 </td>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
+
+Keep the code understandable
+
+I value readable naming, reusable components, clear project structure, and solutions that another developer can follow.
+
+Maintainability is part of the product, not an afterthought.
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+Design for real users
+
+Every screen should be easy to navigate, visually consistent, responsive, and useful without unnecessary complexity.
+
+</td>
+<td width="50%" valign="top">
+
+Improve through iteration
+
+I test, review, refine, and learn from each project so the next solution is stronger than the previous one.
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<h2 align="center">Current Growth</h2>
+
+<table width="100%">
+<tr>
+<td width="40%" valign="top">
+
+Expanding my technical depth
+
+Advanced React Patterns
+
+TypeScript
+
+Accessibility
+
+Web Performance
+
+Application Testing
+
+</td>
+<td width="60%" valign="top">
 
 Career Direction
 
-Ready to contribute and keep growing
+I am seeking a development team where I can contribute to real products, collaborate with experienced professionals, and continue growing from frontend development into broader software engineering responsibilities.
 
-I am seeking a team where I can work on real products, learn from experienced developers, and grow into broader software engineering responsibilities.
+I bring consistency, curiosity, and a strong willingness to learn while delivering thoughtful work from the beginning of a task through deployment.
 
 </td>
 </tr>
 </table>
 
+<br />
+
 <div align="center">
 
-Always learning. Always building.
+<h3>Always learning. Always building.</h3>
 
-Frontend Development • React • Clean Code • User Experience • Continuous Improvement
-
-<br />
-
-<i>"Good software is shaped by clear thinking, thoughtful design, and consistent improvement."</i>
+<p>
+Clean interfaces · Thoughtful code · Reliable experiences · Continuous improvement
+</p>
 
 <br />
-<br />
+
+<i>
+“Strong digital experiences are created through clear thinking, careful execution, and constant refinement.”
+</i>
+
+<br /><br />
 
 <img
 width="100%"
