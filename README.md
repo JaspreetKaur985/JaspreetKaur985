@@ -2,42 +2,48 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:4A1334,45:7B2E5F,100:B784C8&text=Jaspreet%20Kaur&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Responsive%20Web%20Experiences%20%E2%80%A2%20Clean%20Code&descSize=18&descAlignY=61&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:4A1334,45:7B2E5F,100:B784C8&text=Jaspreet%20Kaur&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%%20%E2%80%A2%20Modern%20Web%20Applications&descSize=18&descAlignY=61&animation=fadeIn"
   alt="Jaspreet Kaur"
 />
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1400&color=B784C8&center=true&vCenter=true&width=900&height=60&lines=Frontend+Developer;React+%26+JavaScript+Developer;Building+Responsive+Web+Applications;Clean+Architecture+%26+UI+Design;Open+to+Full-Time+Opportunities"
-    alt="Typing Animation"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3000&pause=1200&color=B784C8&center=true&vCenter=true&width=900&height=58&lines=Developing+Responsive+Frontend+Applications;Creating+Intuitive+and+User-Focused+Interfaces;Building+Reusable+React+Components;Connecting+Interfaces+with+APIs+and+Dynamic+Data;Optimizing+Websites+for+Performance+and+Usability"
+    alt="Typing animation"
   />
 </a>
 
 <br /><br />
 
-<a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Website-A66C8A?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="Website"
-  />
-</a>
+<table width="420" align="center">
+  <tr>
+    <td width="50%" align="left">
+      <a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
+        <img
+          src="https://img.shields.io/badge/Website-B784C8?style=for-the-badge&logo=googlechrome&logoColor=white"
+          alt="Portfolio Website"
+        />
+      </a>
+    </td>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-6D214F?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+    <td width="50%" align="right">
+      <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
+        <img
+          src="https://img.shields.io/badge/LinkedIn-6D214F?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="LinkedIn Profile"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br />
 
 <table width="100%">
-<tr>
-<td width="62%" valign="top">
+  <tr>
+    <td width="62%" valign="top">
 About Me
 I enjoy turning ideas into practical web experiences that feel clear, responsive, and easy to use.
 
