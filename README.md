@@ -14,7 +14,9 @@
     alt="Portfolio Website"
   />
 </a>
+
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
   <img
     src="https://img.shields.io/badge/LinkedIn-6D214F?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -34,10 +36,6 @@
 </div>
 
 <br />
-
-<table width="100%">
-  <tr>
-    <td width="62%" valign="top">
 
 About Me
 I enjoy turning ideas into practical web experiences that feel clear, responsive, and easy to use.
