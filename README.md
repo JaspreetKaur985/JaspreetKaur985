@@ -32,57 +32,48 @@
 
 <br />
 
-
 <!-- ===================== ABOUT ME ===================== -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=85&text=About%20Me&fontSize=32&fontColor=B784C8&fontAlignY=55"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=About%20Me&fontSize=31&fontColor=B784C8&fontAlignY=55"
   alt="About Me"
 />
 
 <p align="center">
-  Frontend developer focused on creating
-  <strong>responsive, accessible, and visually polished web applications</strong>.
-  I enjoy transforming ideas into practical digital experiences through
-  structured code, reusable components, and intuitive interfaces.
+  Frontend developer focused on creating responsive, accessible, and visually polished
+  web applications. I enjoy transforming ideas into practical digital experiences
+  through structured code, reusable components, and intuitive interfaces.
 </p>
 
 <p align="center">
   My work combines <strong>React development</strong>,
   <strong>API integration</strong>, <strong>responsive design</strong>,
-  and modern frontend practices to build applications that are
-  clear, reliable, and easy to use.
+  and modern frontend practices to build reliable and user-friendly applications.
 </p>
 
 <br />
 
 <img
-  src="https://img.shields.io/badge/Ontario%2C%20Canada-B784C8?style=for-the-badge&logo=googlemaps&logoColor=white"
+  src="https://img.shields.io/badge/Ontario%2C%20Canada-B784C8?style=flat-square&logo=googlemaps&logoColor=white"
   alt="Ontario, Canada"
 />
 <img
-  src="https://img.shields.io/badge/Georgian%20College-7B2E5F?style=for-the-badge&logo=graduationcap&logoColor=white"
+  src="https://img.shields.io/badge/Georgian%20College-7B2E5F?style=flat-square"
   alt="Georgian College Graduate"
 />
-
-<br /><br />
-
 <img
-  src="https://img.shields.io/badge/GPA-4.0-9A5A8A?style=for-the-badge&logo=googlescholar&logoColor=white"
+  src="https://img.shields.io/badge/GPA-4.0-9A5A8A?style=flat-square"
   alt="4.0 GPA"
 />
 <img
-  src="https://img.shields.io/badge/Dean's%20Honour%20List-4%C3%97-6D214F?style=for-the-badge"
+  src="https://img.shields.io/badge/Dean's%20Honour%20List-4%C3%97-6D214F?style=flat-square"
   alt="Four-Time Dean's Honour List"
 />
-
-<br /><br />
-
 <img
-  src="https://img.shields.io/badge/Open%20to-Full--Time%20Opportunities-A66C8A?style=for-the-badge"
-  alt="Open to Full-Time Opportunities"
+  src="https://img.shields.io/badge/Open%20to-Full--Time%20Roles-A66C8A?style=flat-square"
+  alt="Open to Full-Time Roles"
 />
 
 </div>
@@ -95,7 +86,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=85&text=Technology%20Stack&fontSize=32&fontColor=B784C8&fontAlignY=55"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Technology%20Stack&fontSize=31&fontColor=B784C8&fontAlignY=55"
   alt="Technology Stack"
 />
 
@@ -128,152 +119,37 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=85&text=Core%20Strengths&fontSize=32&fontColor=B784C8&fontAlignY=55"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Core%20Strengths&fontSize=31&fontColor=B784C8&fontAlignY=55"
   alt="Core Strengths"
 />
 
-<h3>Responsive Interface Development</h3>
-
-<p align="center">
-  Creating balanced and adaptable layouts that remain clear and usable
-  across mobile, tablet, laptop, and desktop screens.
-</p>
-
 <img
-  src="https://img.shields.io/badge/Responsive%20Design-90%25-B784C8?style=for-the-badge"
-  alt="Responsive Design 90 percent"
+  src="https://img.shields.io/badge/Responsive%20Interfaces-4A1334?style=for-the-badge"
+  alt="Responsive Interfaces"
+/>
+<img
+  src="https://img.shields.io/badge/React%20Development-5C1F46?style=for-the-badge&logo=react&logoColor=white"
+  alt="React Development"
+/>
+<img
+  src="https://img.shields.io/badge/API%20Integration-6D2B55?style=for-the-badge&logo=postman&logoColor=white"
+  alt="API Integration"
 />
 
 <br /><br />
 
-<h3>React Development</h3>
-
-<p align="center">
-  Building reusable components, structured interfaces, state-driven
-  interactions, and maintainable frontend applications.
-</p>
-
 <img
-  src="https://img.shields.io/badge/React%20Development-85%25-9A5A8A?style=for-the-badge&logo=react&logoColor=white"
-  alt="React Development 85 percent"
-/>
-
-<br /><br />
-
-<h3>API Integration</h3>
-
-<p align="center">
-  Connecting user interfaces with external services, authentication,
-  forms, dynamic data, and application functionality.
-</p>
-
-<img
-  src="https://img.shields.io/badge/API%20Integration-80%25-7B2E5F?style=for-the-badge&logo=postman&logoColor=white"
-  alt="API Integration 80 percent"
-/>
-
-<br /><br />
-
-<h3>User-Focused Design</h3>
-
-<p align="center">
-  Developing intuitive navigation, accessible layouts, consistent
-  visual systems, and polished user experiences.
-</p>
-
-<img
-  src="https://img.shields.io/badge/UI%20Implementation-85%25-6D214F?style=for-the-badge&logo=figma&logoColor=white"
-  alt="UI Implementation 85 percent"
-/>
-
-</div>
-
-<br /><br />
-
-
-<!-- ===================== DEVELOPMENT APPROACH ===================== -->
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=85&text=Development%20Approach&fontSize=32&fontColor=B784C8&fontAlignY=55"
-  alt="Development Approach"
-/>
-
-<img
-  src="https://img.shields.io/badge/Clean%20Code-4A1334?style=for-the-badge&logo=codefactor&logoColor=white"
-  alt="Clean Code"
-/>
-<img
-  src="https://img.shields.io/badge/Responsive%20Design-5C1F46?style=for-the-badge"
-  alt="Responsive Design"
-/>
-<img
-  src="https://img.shields.io/badge/Reusable%20Components-6D2B55?style=for-the-badge&logo=react&logoColor=white"
+  src="https://img.shields.io/badge/Reusable%20Components-7B2E5F?style=for-the-badge"
   alt="Reusable Components"
 />
-
-<br /><br />
-
 <img
-  src="https://img.shields.io/badge/Consistent%20Interfaces-7B2E5F?style=for-the-badge"
-  alt="Consistent Interfaces"
+  src="https://img.shields.io/badge/User--Focused%20Design-8E5572?style=for-the-badge&logo=figma&logoColor=white"
+  alt="User-Focused Design"
 />
 <img
-  src="https://img.shields.io/badge/Readable%20Structure-8E5572?style=for-the-badge"
-  alt="Readable Structure"
+  src="https://img.shields.io/badge/Clean%20Code-A66C8A?style=for-the-badge"
+  alt="Clean Code"
 />
-<img
-  src="https://img.shields.io/badge/Reliable%20Functionality-A66C8A?style=for-the-badge"
-  alt="Reliable Functionality"
-/>
-
-</div>
-
-<br /><br />
-
-
-<!-- ===================== WORKFLOW ===================== -->
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=85&text=How%20I%20Build&fontSize=32&fontColor=B784C8&fontAlignY=55"
-  alt="How I Build"
-/>
-
-<img
-  src="https://img.shields.io/badge/01-Plan-4A1334?style=for-the-badge"
-  alt="Plan"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/02-Design-5C1F46?style=for-the-badge"
-  alt="Design"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/03-Develop-6D2B55?style=for-the-badge"
-  alt="Develop"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/04-Test-7B2E5F?style=for-the-badge"
-  alt="Test"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/05-Deploy-B784C8?style=for-the-badge"
-  alt="Deploy"
-/>
-
-<br /><br />
-
-<p align="center">
-  I begin by understanding the purpose of the interface, organize the layout
-  and component structure, develop responsive functionality, test the user
-  experience, and deploy a polished final application.
-</p>
 
 </div>
 
@@ -285,36 +161,21 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=85&text=Current%20Focus&fontSize=32&fontColor=B784C8&fontAlignY=55"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Current%20Focus&fontSize=31&fontColor=B784C8&fontAlignY=55"
   alt="Current Focus"
 />
 
 <p align="center">
-  Continuing to strengthen my knowledge of advanced React patterns,
-  TypeScript, accessibility, testing, performance optimization,
-  and scalable frontend architecture.
+  Strengthening my knowledge of advanced React patterns, TypeScript,
+  frontend accessibility, testing, performance optimization,
+  and scalable application architecture.
 </p>
 
 <br />
 
 <img
-  src="https://skillicons.dev/icons?i=react,ts,jest"
+  src="https://skillicons.dev/icons?i=react,ts,jest&perline=3"
   alt="Current Learning Focus"
-/>
-
-<br /><br />
-
-<img
-  src="https://img.shields.io/badge/Advanced%20React-In%20Progress-B784C8?style=for-the-badge&logo=react&logoColor=white"
-  alt="Advanced React"
-/>
-<img
-  src="https://img.shields.io/badge/TypeScript-Learning-9A5A8A?style=for-the-badge&logo=typescript&logoColor=white"
-  alt="Learning TypeScript"
-/>
-<img
-  src="https://img.shields.io/badge/Accessibility-Improving-7B2E5F?style=for-the-badge"
-  alt="Improving Accessibility Skills"
 />
 
 </div>
@@ -327,28 +188,38 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=85&text=Professional%20Goal&fontSize=32&fontColor=B784C8&fontAlignY=55"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Professional%20Goal&fontSize=31&fontColor=B784C8&fontAlignY=55"
   alt="Professional Goal"
 />
 
 <p align="center">
   Seeking a full-time frontend or web development opportunity where I can
   contribute to real products, collaborate with experienced developers,
-  solve meaningful problems, and continue growing as a software professional.
+  and continue growing as a software professional.
 </p>
+
+</div>
+
+<br /><br />
+
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1200&color=B784C8&center=true&vCenter=true&width=750&height=50&lines=Let's+build+something+meaningful+together;Open+to+frontend+and+web+development+opportunities;Thank+you+for+visiting+my+GitHub+profile"
+    alt="Footer typing animation"
+  />
+</a>
 
 <br />
 
-<a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
+<a href="mailto:jaspreetkaur29783@gmail.com">
   <img
-    src="https://img.shields.io/badge/Explore%20My%20Portfolio-B784C8?style=for-the-badge"
-    alt="Explore My Portfolio"
-  />
-</a>
-<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Connect%20on%20LinkedIn-6D214F?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="Connect on LinkedIn"
+    src="https://img.shields.io/badge/jaspreetkaur29783%40gmail.com-6D214F?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email Jaspreet Kaur"
   />
 </a>
 
