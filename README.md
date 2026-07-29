@@ -7,7 +7,10 @@
 />
 
 <p align="center">
-<a href="https://portfolio-website-three-sooty-45.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-B784C8?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>&nbsp;
+<a href="https://portfolio-website-three-sooty-45.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-B784C8?style=for-the-badge&logoColor=white"
+alt="Website"
+/>
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6D214F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
