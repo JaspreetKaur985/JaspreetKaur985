@@ -2,31 +2,20 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:4A1334,45:7B2E5F,100:B784C8&text=Jaspreet%20Kaur&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Modern%20Web%20Developer%20%E2%80%A2%20Programmer&descSize=18&descAlignY=61&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:4A1334,45:7B2E5F,100:B784C8&text=Jaspreet%20Kaur&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Modern%20Web%20Developer%20%E2%80%A2%20Programmer&descSize=18&descAlignY=61"
   alt="Jaspreet Kaur"
 />
 
-<a href="https://portfolio-jaspreet-985.netlify.app/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Website-B784C8?style=for-the-badge&logoColor=white"
-    alt="Website"
-  />
-</a>
-<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-6D214F?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+<p align="center">
+<a href="https://portfolio-website-three-sooty-45.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-B784C8?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jaspreet-kaur-6013a5382/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6D214F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-<br />
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3000&pause=1200&color=B784C8&center=true&vCenter=true&width=900&height=58&lines=Developing+Responsive+Frontend+Applications;Creating+Intuitive+and+User-Focused+Interfaces;Building+Reusable+React+Components;Integrating+APIs+and+Dynamic+Data;Optimizing+Websites+for+Performance+and+Usability"
-    alt="Typing animation"
-  />
-</a>
+<img
+  width="100%"
+  src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=23&duration=3000&pause=1200&color=B784C8&center=true&vCenter=true&repeat=true&random=false&width=900&height=58&lines=Developing+Responsive+Frontend+Applications;Creating+Intuitive+and+User-Focused+Interfaces;Building+Reusable+React+Components;Integrating+APIs+and+Dynamic+Data;Optimizing+Websites+for+Performance+and+Usability"
+  alt="Typing animation"
+/>
 
 </div>
 
@@ -53,33 +42,27 @@
   and modern frontend practices to build reliable and user-friendly applications.
 </p>
 
+<p align="center">
+  I value clean code, thoughtful design, continuous learning, and creating web
+  experiences that work consistently across different devices and browsers.
+</p>
+
 <br />
 
-<img
-  src="https://img.shields.io/badge/Ontario%2C%20Canada-B784C8?style=flat-square&logo=googlemaps&logoColor=white"
-  alt="Ontario, Canada"
-/>
-<img
-  src="https://img.shields.io/badge/Georgian%20College-7B2E5F?style=flat-square"
-  alt="Georgian College Graduate"
-/>
-<img
-  src="https://img.shields.io/badge/GPA-4.0-9A5A8A?style=flat-square"
-  alt="4.0 GPA"
-/>
-<img
-  src="https://img.shields.io/badge/Dean's%20Honour%20List-4%C3%97-6D214F?style=flat-square"
-  alt="Four-Time Dean's Honour List"
-/>
-<img
-  src="https://img.shields.io/badge/Open%20to-Full--Time%20Roles-A66C8A?style=flat-square"
-  alt="Open to Full-Time Roles"
-/>
+<p align="center">
+<img src="https://img.shields.io/badge/Ontario%2C%20Canada-B784C8?style=flat-square&logo=googlemaps&logoColor=white" alt="Ontario, Canada" />&nbsp;
+<img src="https://img.shields.io/badge/Georgian%20College-7B2E5F?style=flat-square" alt="Georgian College Graduate" />&nbsp;
+<img src="https://img.shields.io/badge/GPA-4.0-9A5A8A?style=flat-square" alt="4.0 GPA" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Dean's%20Honour%20List-4%C3%97-6D214F?style=flat-square" alt="Four-Time Dean's Honour List" />&nbsp;
+<img src="https://img.shields.io/badge/Open%20to-Full--Time%20Roles-A66C8A?style=flat-square" alt="Open to Full-Time Roles" />
+</p>
 
 </div>
 
 <br /><br />
-
 
 <!-- ===================== TECHNOLOGY STACK ===================== -->
 
@@ -113,7 +96,6 @@
 
 <br /><br />
 
-
 <!-- ===================== CORE STRENGTHS ===================== -->
 
 <div align="center">
@@ -123,38 +105,26 @@
   alt="Core Strengths"
 />
 
-<img
-  src="https://img.shields.io/badge/Responsive%20Interfaces-4A1334?style=for-the-badge"
-  alt="Responsive Interfaces"
-/>
-<img
-  src="https://img.shields.io/badge/React%20Development-5C1F46?style=for-the-badge&logo=react&logoColor=white"
-  alt="React Development"
-/>
-<img
-  src="https://img.shields.io/badge/API%20Integration-6D2B55?style=for-the-badge&logo=postman&logoColor=white"
-  alt="API Integration"
-/>
+<p align="center">
+<img src="https://img.shields.io/badge/Responsive%20Interfaces-4A1334?style=for-the-badge" alt="Responsive Interfaces" />&nbsp;
+<img src="https://img.shields.io/badge/React%20Development-5C1F46?style=for-the-badge&logo=react&logoColor=white" alt="React Development" />&nbsp;
+<img src="https://img.shields.io/badge/API%20Integration-6D2B55?style=for-the-badge&logo=postman&logoColor=white" alt="API Integration" />
+</p>
 
-<br /><br />
+<p align="center">
+<img src="https://img.shields.io/badge/Reusable%20Components-7B2E5F?style=for-the-badge" alt="Reusable Components" />&nbsp;
+<img src="https://img.shields.io/badge/User--Focused%20Design-8E5572?style=for-the-badge&logo=figma&logoColor=white" alt="User-Focused Design" />&nbsp;
+<img src="https://img.shields.io/badge/Clean%20Code-A66C8A?style=for-the-badge" alt="Clean Code" />
+</p>
 
-<img
-  src="https://img.shields.io/badge/Reusable%20Components-7B2E5F?style=for-the-badge"
-  alt="Reusable Components"
-/>
-<img
-  src="https://img.shields.io/badge/User--Focused%20Design-8E5572?style=for-the-badge&logo=figma&logoColor=white"
-  alt="User-Focused Design"
-/>
-<img
-  src="https://img.shields.io/badge/Clean%20Code-A66C8A?style=for-the-badge"
-  alt="Clean Code"
-/>
+<p align="center">
+<img src="https://img.shields.io/badge/Cross--Browser%20Compatibility-5C1F46?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Cross-Browser Compatibility" />&nbsp;
+<img src="https://img.shields.io/badge/Performance%20Optimization-7B2E5F?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Performance Optimization" />
+</p>
 
 </div>
 
 <br /><br />
-
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
@@ -171,6 +141,12 @@
   and scalable application architecture.
 </p>
 
+<p align="center">
+  I am also improving my ability to create production-ready applications
+  with maintainable components, reliable data handling, and consistent
+  cross-browser experiences.
+</p>
+
 <br />
 
 <img
@@ -181,7 +157,6 @@
 </div>
 
 <br /><br />
-
 
 <!-- ===================== PROFESSIONAL GOAL ===================== -->
 
@@ -202,17 +177,15 @@
 
 <br /><br />
 
-
 <!-- ===================== FOOTER ===================== -->
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1200&color=B784C8&center=true&vCenter=true&width=750&height=50&lines=Let's+build+something+meaningful+together;Open+to+frontend+and+web+development+opportunities;Thank+you+for+visiting+my+GitHub+profile"
-    alt="Footer typing animation"
-  />
-</a>
+<img
+  width="100%"
+  src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=20&duration=3000&pause=1200&color=B784C8&center=true&vCenter=true&repeat=true&random=false&width=750&height=50&lines=Let's+build+something+meaningful+together;Open+to+frontend+and+web+development+opportunities;Thank+you+for+visiting+my+GitHub+profile"
+  alt="Footer typing animation"
+/>
 
 <br />
 
